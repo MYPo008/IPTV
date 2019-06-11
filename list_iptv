@@ -9,3 +9,35 @@ http://id8.indostreamingtv.com/live/tv66/index.m3u8
 http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:1 tvg-logo="https://img.okezone.com/content/2017/05/29/598/1702754/mnctv-gelar-konser-ramadan-cek-jadwalnya-di-sini-1etyEf5oOu.jpg" group-title="LOKAL",MNC
 http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:11 tvg-logo="https://cdn0-a.production.images.static6.com/7rUR-dTdHlqTN0R7WPA7RHwZsqE=/640x360/smart/filters:quality(90)/vidio-media-production/uploads/livestreaming/image/778/global-tv-stream-1aea79.jpg" group-title="LOKAL",GLOBAL TV
+http://202.80.222.175/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/800px-SCTV_Logo.svg.png" group-title="LOKAL",SCTV
+http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/800px-SCTV_Logo.svg.png" group-title="LOKAL",SCTV HD
+http://id8.indostreamingtv.com/live/tv22/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.indosiar.com/assets/img/logo-indosiar.png" group-title="LOKAL",INDOSIAR
+http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="http://www.indosiar.com/assets/img/logo-indosiar.png" group-title="LOKAL",INDOSIAR HD
+http://id8.indostreamingtv.com/live/tv115/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png" group-title="LOKAL",ANTV
+http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="http://asset-a.grid.id/crop/0x0:0x0/700x465/photo/haifoto/original/7807_4-alasan-kamu-harus-nonton-acara-ultah-net-tv.png" group-title="LOKAL",NET.
+http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/60/Net_TV_nepal.jpg" group-title="LOKAL",NET TV HD
+http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/800px-Trans_TV_2013.svg.png" group-title="LOKAL",TRANSTV
+http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Trans_7_2013.svg/800px-Trans_7_2013.svg.png" group-title="LOKAL",TRANS7
+http://202.80.222.174/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9e/RtvIndonesia.png" group-title="LOKAL",RTV
+http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Jak_tv_%282010%29.png" group-title="LOKAL",Jak TV
+http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d6/INews_TV.png" group-title="LOKAL",INEWS
+http://202.80.222.171:80/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/BeritaSatu.png" group-title="LOKAL",Berita Satu
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" group-title="LOKAL",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/2/2e/20170424142145%21Logo-Kompas_TV.png" group-title="LOKAL",Kompas TV
+http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
