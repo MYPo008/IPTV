@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://lh3.googleusercontent.com/-WxFfxn3MBzU/AAAAAAAAAAI/AAAAAAAAAGk/23jza8-o1wE/s60-p-no-il/photo.jpg" group-title="LOKAL",MKCTV
+https://www.dropbox.com/s/uarxxybwrq82r88/ZALTVku.mp4?dl=1
+#EXTINF:1 tvg-logo="http://eagle.industry.co.id/uploads/berita/detail/1103.png" group-title="LOKAL",THE INDONESIA CHANEL
+http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
+#EXTINF:1 tvg-logo="https://media.tabloidbintang.com/files/thumb/rcti-logo1.jpg/745",group-title="LOKAL",RCTI HD
+http://id8.indostreamingtv.com/live/tv66/index.m3u8
+#EXTINF:1 tvg-logo="https://media.tabloidbintang.com/files/thumb/rcti-logo1.jpg/745",group-title="LOKAL",RCTI
+http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:1 tvg-logo="https://img.okezone.com/content/2017/05/29/598/1702754/mnctv-gelar-konser-ramadan-cek-jadwalnya-di-sini-1etyEf5oOu.jpg" group-title="LOKAL",MNC
+http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
