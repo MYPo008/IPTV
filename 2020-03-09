@@ -1,13 +1,49 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://mmc.tirto.id/image/otf/700x0/2018/05/14/logo-liga-2_ratio-16x9.jpg" group-title="C. Sport Channel", Liga 2 shopee+
+#EXTINF:-1 tvg-id="HBO.id" tvg-logo="https://static1.squarespace.com/static/5923677f725e25e4bf294bf0/594443c1c534a59017b31211/5956cd7286e6c0d71f4c7592/1498860917735/hbo.png" group-title="B. MovieBiz Channel", HBO
 #EXTVLCOPT:network-caching=1000
-http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/920.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/Prambors.svg/1200px-Prambors.svg.png" group-title="H. Music Channel", Prambors TV
-#EXTVLCOPT:network-caching=1000
-http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/888.ts
+http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/117.ts
 
 #EXTINF:-1 tvg-id="HBO.id" tvg-logo="https://static1.squarespace.com/static/5923677f725e25e4bf294bf0/594443c1c534a59017b31211/5956cd7286e6c0d71f4c7592/1498860917735/hbo.png" group-title="B. MovieBiz Channel", HBO FHD
 #EXTVLCOPT:network-caching=1000
 http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/892.ts
+
+#EXTINF:-1 tvg-id="HBOHits.id" tvg-logo="https://video.toggle.sg/image/11230410/16x9/947/533/774a1f9fa474cbbb865e78b1b71130e3/On/hbo-hits.png" group-title="B. MovieBiz Channel", HBO Hits
+#EXTVLCOPT:network-caching=1000
+http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/124.ts
+
+#EXTINF:-1 tvg-id="HBOHits.id" tvg-logo="https://video.toggle.sg/image/11230410/16x9/947/533/774a1f9fa474cbbb865e78b1b71130e3/On/hbo-hits.png" group-title="B. MovieBiz Channel", HBO Hits FHD
+#EXTVLCOPT:network-caching=1000
+http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/915.ts
+
+#EXTINF:-1 tvg-id="HBOFam.id" tvg-logo="https://video.toggle.sg/image/11230408/16x9/947/533/aee3ee3e5c1faea19d10b8a70780d63d/BR/hbo-family.png" group-title="B. MovieBiz Channel", HBO Family
+#EXTVLCOPT:network-caching=1000
+http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/125.ts
+
+#EXTINF:-1 tvg-id="HBOFam.id" tvg-logo="https://video.toggle.sg/image/11230408/16x9/947/533/aee3ee3e5c1faea19d10b8a70780d63d/BR/hbo-family.png" group-title="B. MovieBiz Channel", HBO Family FHD
+#EXTVLCOPT:network-caching=1000
+http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/916.ts
+
+#EXTINF:-1 tvg-id="HBOSig.id" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/284.png" group-title="B. MovieBiz Channel", HBO Signature
+#EXTVLCOPT:network-caching=1000
+http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/571.ts
+
+#EXTINF:-1 tvg-id="HBOSig.id" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/284.png" group-title="B. MovieBiz Channel", HBO Signature FHD
+#EXTVLCOPT:network-caching=1000
+http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/917.ts
+
+#EXTINF:-1 tvg-id="Cinemax.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png" group-title="B. MovieBiz Channel", Cinemax
+#EXTVLCOPT:network-caching=1000
+http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/192.ts
+
+#EXTINF:-1 tvg-id="Cinemax.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png" group-title="B. MovieBiz Channel", Cinemax FHD
+#EXTVLCOPT:network-caching=1000
+http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/918.ts
+
+#EXTINF:-1 tvg-id="RedHBO.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9b/Screen_RED_%28logo%29.jpg" group-title="B. MovieBiz Channel", Red by HBO
+#EXTVLCOPT:network-caching=1000
+http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/378.ts
+
+#EXTINF:-1 tvg-id="Thrill.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9b/Screen_RED_%28logo%29.jpg" group-title="B. MovieBiz Channel", Thrill
+#EXTVLCOPT:network-caching=1000
+http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/106.ts
