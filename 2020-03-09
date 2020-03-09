@@ -1,20 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NetTV.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/72/Citra_Drama.PNG" group-title="A. Local Channel", Citra Drama
-#EXTVLCOPT:network-caching=1000
-http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/807.ts
-
-#EXTINF:-1 tvg-id="NetTV.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3c/Citra_Dangdut_Logo_September_2019.png" group-title="A. Local Channel", Citra Dangdut
-#EXTVLCOPT:network-caching=1000
-http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/811.ts
-
-#EXTINF:-1 tvg-id="NetTV.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fd/Citra_Bioskop_Logo.png" group-title="A. Local Channel", Citra Bioskop
-#EXTVLCOPT:network-caching=1000
-http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/806.ts
-
-#EXTINF:-1 tvg-id="NetTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/640px-Antv_logo_%282017%29.svg.png" group-title="A. Local Channel", ANTV HD Backup
-#EXTVLCOPT:network-caching=1000
-http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/804.ts
-
 #EXTINF:-1 tvg-id="NetTV.id" tvg-logo="http://i32.photobucket.com/albums/d44/dedylaksana82/WOW_LOCALCH/NET%20HD_zpsxsejz7nl.png" group-title="A. Local Channel", NET. HD
 https://cdnkbl1.useetv.com/joss/15/net/chunklist_w810166197_b1344100_sleng_53459.m3u8
 
@@ -126,27 +110,14 @@ https://cdnmdc1.useetv.com/joss/14/jitv/chunklist_w746712052_b684100_sleng_53229
 #EXTINF:-1 tvg-id="HBO.id" tvg-logo="https://static1.squarespace.com/static/5923677f725e25e4bf294bf0/594443c1c534a59017b31211/5956cd7286e6c0d71f4c7592/1498860917735/hbo.png" group-title="B. MovieBiz Channel", HBO HD
 http://iya.mba:8888/live/bowo1000/veloz1000/210.ts
 
-#EXTINF:-1 tvg-id="HBO.id" tvg-logo="https://static1.squarespace.com/static/5923677f725e25e4bf294bf0/594443c1c534a59017b31211/5956cd7286e6c0d71f4c7592/1498860917735/hbo.png" group-title="B. MovieBiz Channel", HBO FHD
-#EXTVLCOPT:network-caching=1000
-http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/892.ts
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://video.toggle.sg/image/11230410/16x9/947/533/774a1f9fa474cbbb865e78b1b71130e3/On/hbo-hits.png" group-title="B. MovieBiz Channel", HBO Hits HD
 http://iya.mba:8888/live/bowo1000/veloz1000/591.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://video.toggle.sg/image/11230410/16x9/947/533/774a1f9fa474cbbb865e78b1b71130e3/On/hbo-hits.png" group-title="B. MovieBiz Channel", HBO Hits FHD
-http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/915.ts
 
 #EXTINF:-1 tvg-id="HBO Signature" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/284.png" group-title="B. MovieBiz Channel", HBO Signature HD
 http://iya.mba:8888/live/bowo1000/veloz1000/873.ts
 
-#EXTINF:-1 tvg-id="HBO Signature" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/284.png" group-title="B. MovieBiz Channel", HBO Signature FHD
-http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/917.ts
-
 #EXTINF:-1 tvg-id="HBOFamily.id" tvg-logo="https://video.toggle.sg/image/11230408/16x9/947/533/aee3ee3e5c1faea19d10b8a70780d63d/BR/hbo-family.png" group-title="B. MovieBiz Channel", HBO Family HD
 http://iya.mba:8888/live/bowo1000/veloz1000/592.ts
-
-#EXTINF:-1 tvg-id="HBOFamily.id" tvg-logo="https://video.toggle.sg/image/11230408/16x9/947/533/aee3ee3e5c1faea19d10b8a70780d63d/BR/hbo-family.png" group-title="B. MovieBiz Channel", HBO Family FHD
-http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/916.ts
 
 #EXTINF:-1 tvg-id="FOXMovies.id" tvg-logo="https://foxmoviesasia.com/images/fm.png" group-title="B. MovieBiz Channel", Fox Movies HD
 http://iya.mba:8888/live/bowo1000/veloz1000/98.ts
@@ -288,9 +259,6 @@ http://iya.mba:8888/live/bowo1000/veloz1000/165.ts
 
 #EXTINF:-1 tvg-id="HistoryChannel.id" tvg-logo="http://images.useetv.com/logo_history_big.png" group-title="D. DocuLife Channel", History HD
 http://iya.mba:8888/live/bowo1000/veloz1000/718.ts
-
-#EXTINF:-1 tvg-id="HistoryChannel.id" tvg-logo="http://images.useetv.com/logo_history_big.png" group-title="D. DocuLife Channel", History FHD
-http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/775.ts
 
 #EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="D. DocuLife Channel", Animal Planet HD (Trial)
 http://iya.mba:8888/live/bowo1000/veloz1000/358.ts
@@ -609,3 +577,11 @@ http://stream.asianastream.com:1935/live/ngrp:madanitv_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSkvpKyWC-tPrLYeHEXfG5eTeD4xzlhVM5yXwjHupoDGwuqJbcS" group-title="M. Religion Channel", Reformed 21
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/chunklist_b2121000.m3u8
+
+#EXTINF:0 tvg-id="Dummy" tvg-logo="https://mmc.tirto.id/image/otf/700x0/2018/05/14/logo-liga-2_ratio-16x9.jpg" group-title="C. Sport Channel", Liga 2 shopee+
+#EXTVLCOPT:network-caching=1000
+http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/920.ts
+
+#EXTINF:0 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/Prambors.svg/1200px-Prambors.svg.png" group-title="H. Music Channel", Prambors TV
+#EXTVLCOPT:network-caching=1000
+http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/888.ts
