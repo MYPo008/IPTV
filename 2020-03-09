@@ -578,10 +578,14 @@ http://stream.asianastream.com:1935/live/ngrp:madanitv_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSkvpKyWC-tPrLYeHEXfG5eTeD4xzlhVM5yXwjHupoDGwuqJbcS" group-title="M. Religion Channel", Reformed 21
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/chunklist_b2121000.m3u8
 
-#EXTINF:0 tvg-id="Dummy" tvg-logo="https://mmc.tirto.id/image/otf/700x0/2018/05/14/logo-liga-2_ratio-16x9.jpg" group-title="C. Sport Channel", Liga 2 shopee+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://mmc.tirto.id/image/otf/700x0/2018/05/14/logo-liga-2_ratio-16x9.jpg" group-title="C. Sport Channel", Liga 2 shopee+
 #EXTVLCOPT:network-caching=1000
 http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/920.ts
 
-#EXTINF:0 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/Prambors.svg/1200px-Prambors.svg.png" group-title="H. Music Channel", Prambors TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/Prambors.svg/1200px-Prambors.svg.png" group-title="H. Music Channel", Prambors TV
 #EXTVLCOPT:network-caching=1000
 http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/888.ts
+
+#EXTINF:-1 tvg-id="HBO.id" tvg-logo="https://static1.squarespace.com/static/5923677f725e25e4bf294bf0/594443c1c534a59017b31211/5956cd7286e6c0d71f4c7592/1498860917735/hbo.png" group-title="B. MovieBiz Channel", HBO FHD
+#EXTVLCOPT:network-caching=1000
+http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/892.ts
