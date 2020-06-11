@@ -158,24 +158,6 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Str
 
 
 ######## B. MovieBiz Channel #########
-#EXTINF:-1 tvg-id="FX.MACAN"  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_159.png" group-title="B. MovieBiz Channel", FX
-https://delivery.macan.live/stream/id_fx/playlist.m3u8?token=CLK6e&v=20200308
-
-#EXTINF:-1 tvg-id="FOX.MACAN"  tvg-logo="https://x1.cdn.broiptv.online/img/fox.png" group-title="B. MovieBiz Channel", FOX
-https://delivery.macan.live/stream/id_fox/playlist.m3u8?token=CLK6e&v=20200308
-
-#EXTINF:-1 tvg-id="FOXCrime.MACAN"  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_152.png" group-title="B. MovieBiz Channel", FOX Crime
-https://delivery.macan.live/stream/id_foxcrime/playlist.m3u8?token=CLK6e&v=20200308
-
-#EXTINF:-1 tvg-id="FOXMovies.MACAN"  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_14.png" group-title="B. MovieBiz Channel", FOX Movies Premium
-https://delivery.macan.live/stream/id_foxmoviespremium/playlist.m3u8?token=CLK6e&v=20200308
-
-#EXTINF:-1 tvg-id="FOXActionMovies.MACAN"  tvg-logo="https://macan.live/img/fox_action_movies.png" group-title="B. MovieBiz Channel", FOX Action Movies
-https://delivery.macan.live/stream/id_foxactionmovies/playlist.m3u8?token=CLK6e&v=20200308
-
-#EXTINF:-1 tvg-id="FOXFamilyMovies.MACAN"  tvg-logo="https://x1.cdn.broiptv.online/img/fox_family.png" group-title="B. MovieBiz Channel", FOX Family Movies
-https://delivery.macan.live/stream/foxfamilymovies_idn/playlist.m3u8?token=CLK6e&v=20200308
- 
 #EXTINF:-1 tvg-id="HBO.MACAN" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="B. MovieBiz Channel", HBO
 https://delivery.macan.live/stream/hbo/playlist.m3u8?token=CLK6e&v=20200308
 
@@ -193,6 +175,24 @@ https://delivery.macan.live/stream/redhbo/playlist.m3u8?token=CLK6e&v=20200308
 
 #EXTINF:-1 tvg-id="CineMax.MACAN" tvg-ID="CineMax.MACAN" group-title="B. MovieBiz Channel" tvg-logo="https://macan.live/img/cinemaxa.png", Cinemax by HBO
 https://delivery.macan.live/stream/cinemax/playlist.m3u8?token=CLK6e&v=20200308
+
+#EXTINF:-1 tvg-id="FX.MACAN"  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_159.png" group-title="B. MovieBiz Channel", FX
+https://delivery.macan.live/stream/id_fx/playlist.m3u8?token=CLK6e&v=20200308
+
+#EXTINF:-1 tvg-id="FOX.MACAN"  tvg-logo="https://x1.cdn.broiptv.online/img/fox.png" group-title="B. MovieBiz Channel", FOX
+https://delivery.macan.live/stream/id_fox/playlist.m3u8?token=CLK6e&v=20200308
+
+#EXTINF:-1 tvg-id="FOXCrime.MACAN"  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_152.png" group-title="B. MovieBiz Channel", FOX Crime
+https://delivery.macan.live/stream/id_foxcrime/playlist.m3u8?token=CLK6e&v=20200308
+
+#EXTINF:-1 tvg-id="FOXMovies.MACAN"  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_14.png" group-title="B. MovieBiz Channel", FOX Movies Premium
+https://delivery.macan.live/stream/id_foxmoviespremium/playlist.m3u8?token=CLK6e&v=20200308
+
+#EXTINF:-1 tvg-id="FOXActionMovies.MACAN"  tvg-logo="https://macan.live/img/fox_action_movies.png" group-title="B. MovieBiz Channel", FOX Action Movies
+https://delivery.macan.live/stream/id_foxactionmovies/playlist.m3u8?token=CLK6e&v=20200308
+
+#EXTINF:-1 tvg-id="FOXFamilyMovies.MACAN"  tvg-logo="https://x1.cdn.broiptv.online/img/fox_family.png" group-title="B. MovieBiz Channel", FOX Family Movies
+https://delivery.macan.live/stream/foxfamilymovies_idn/playlist.m3u8?token=CLK6e&v=20200308
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="B. MovieBiz Channel", Blue Ant Entertainment
 https://delivery.macan.live/stream/blue_ant_entertainment/playlist.m3u8?token=CLK6e&v=20200308
