@@ -458,10 +458,13 @@ https://vcdnjt.useetv.com/joss/15/nba/chunklist_w2141500514_b1344100_sleng_97037
 https://delivery.macan.live/stream/tlc/playlist.m3u8?token=CLK6e&v=20200308
 
 #EXTINF:-1 tvg-id="BBCEarth.MACAN"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="D. Knowledge Channel", BBC Earth
-https://delivery.macan.live/stream/bbc_earth/playlist.m3u8?token=CLK6e&v=20200308
+http://203.153.218.28:9981/stream/channelid/861591723?ticket=49C9B533CE6A1DCB536F863DD2A14413DF50853A&profile=pass
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://ewsat.com/img/BBC_LIFESTYLE.png" group-title="D. Knowledge Channel", BBC Lifestyle
 https://delivery.macan.live/stream/bbc_lifestyle/playlist.m3u8?token=CLK6e&v=20200308
+
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/bloomberg.png" group-title="D. Knowledge Channel",Bloomberg International
+http://203.153.218.28:9981/stream/channelid/78064174?ticket=660D32D50E614C084246AEB35D9D916F70E2FE63&profile=pass
 
 #EXTINF:-1 tvg-id="AnimalPlanet.MACAN""  tvg-logo="https://macan.live/img/animalplanet.png" group-title="D. Knowledge Channel", Animal Planet
 https://delivery.macan.live/stream/id_animalplanet/playlist.m3u8?token=CLK6e&v=20200308
@@ -497,13 +500,13 @@ https://delivery.macan.live/stream/history/playlist.m3u8?token=CLK6e&v=20200308
 https://delivery.macan.live/stream/hgtv/playlist.m3u8?token=CLK6e&v=20200308
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://macan.live/img/afc.png" group-title="D. Knowledge Channel", AFC
-https://delivery.macan.live/stream/id_afc/playlist.m3u8?token=CLK6e&v=20200308
+http://203.153.218.28:9981/stream/channelid/1092664456?ticket=55F1D428F8430B8043855EE1A817CAD070D7E395&profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/230px-CGTN.svg.png" group-title="D. Knowledge Channel",CGTN Backup
 https://cdnkbl1.useetv.com/joss/14/cgtndocumentary/chunklist_w688449162_b684100_sleng_122528.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/originals/d1/60/9b/d1609bafd67a9eb5ac103a31da889098.png" group-title="D. Knowledge Channel",Discovery Channel Backup
-https://vcdnjt.useetv.com/joss/15/disco/chunklist_w149297996_b894100_sleng_99925.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/originals/d1/60/9b/d1609bafd67a9eb5ac103a31da889098.png" group-title="D. Knowledge Channel",Discovery Channel
+http://203.153.218.28:9981/stream/channelid/1151931232?ticket=B0CF8905071E52CFEBDBE257DFA27B39601F2A6F&profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-id="" tvg-name="" tvg-logo="https://macan.live/img/hgtv.png" group-title="D. Knowledge Channel", HGTV Backup
 http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62242
@@ -544,7 +547,7 @@ https://delivery.macan.live/stream/disneyxd/playlist.m3u8?token=CLK6e&v=20200308
 https://delivery.macan.live/stream/boomerang/playlist.m3u8?token=CLK6e&v=20200308
 
 #EXTINF:-1 tvg-id="cartoonnetwork.MACAN"  tvg-logo="https://mncvision.id/userfiles/image/channel/cartoon_network.png" group-title="E. Kids Channel", Cartoon Network
-https://delivery.macan.live/stream/cartoonnetwork/playlist.m3u8?token=CLK6e&v=20200308
+http://203.153.218.28:9981/stream/channelid/251475608?ticket=7E119C03289B159B121AD74C428131F98E22DBB7&profile=pass
 
 #EXTINF:-1 tvg-id="Nickelodeon.MACAN"  tvg-logo="https://www.groundedreason.com/wp-content/uploads/2018/08/nickelodeon_logo_1020.0-1024x257.jpg" group-title="E. Kids Channel", Nickelodeon
 https://delivery.macan.live/stream/nickelodeon/playlist.m3u8?token=CLK6e&v=20200308
