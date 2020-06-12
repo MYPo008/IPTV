@@ -158,6 +158,10 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Str
 
 
 ######## B. MovieBiz Channel #########
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/4xmLP1mD/Photo-1591074609991.jpg" group-title="B. MovieBiz Channel",The Indonesia Channel
+https://tic.indonusa.net.id:8443/live/TIC.stream_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="HBO.MACAN" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="B. MovieBiz Channel", HBO
 http://iptv.burhansyam.com/hbo/hbo.m3u8
 
@@ -460,6 +464,9 @@ https://delivery.macan.live/stream/tlc/playlist.m3u8?token=CLK6e&v=20200308
 #EXTINF:-1 tvg-id="BBCEarth.MACAN"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="D. Knowledge Channel", BBC Earth
 http://203.153.218.28:9981/stream/channelid/861591723?ticket=49C9B533CE6A1DCB536F863DD2A14413DF50853A&profile=pass
 
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/bbcworld.png" group-title="Khusus Indihome",BBC World News
+http://203.153.218.28:9981/stream/channelid/861591723?ticket=49C9B533CE6A1DCB536F863DD2A14413DF50853A&profile=pass
+
 #EXTINF:-1 tvg-id=""  tvg-logo="https://ewsat.com/img/BBC_LIFESTYLE.png" group-title="D. Knowledge Channel", BBC Lifestyle
 https://delivery.macan.live/stream/bbc_lifestyle/playlist.m3u8?token=CLK6e&v=20200308
 
@@ -467,7 +474,7 @@ https://delivery.macan.live/stream/bbc_lifestyle/playlist.m3u8?token=CLK6e&v=202
 http://203.153.218.28:9981/stream/channelid/78064174?ticket=660D32D50E614C084246AEB35D9D916F70E2FE63&profile=pass
 
 #EXTINF:-1 tvg-id="AnimalPlanet.MACAN""  tvg-logo="https://macan.live/img/animalplanet.png" group-title="D. Knowledge Channel", Animal Planet
-https://delivery.macan.live/stream/id_animalplanet/playlist.m3u8?token=CLK6e&v=20200308
+https://tv4.chang55.com:446/live2/tv4ch37.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.MACAN"  tvg-logo="https://macan.live/img/discoverychannel.png" group-title="D. Knowledge Channel", Discovery Channel
 http://203.153.218.28:9981/stream/channelid/1151931232?ticket=B0CF8905071E52CFEBDBE257DFA27B39601F2A6F&profile=pass
@@ -479,10 +486,10 @@ https://delivery.macan.live/stream/id_discoveryasia/playlist.m3u8?token=CLK6e&v=
 https://delivery.macan.live/stream/id_ngc/playlist.m3u8?token=CLK6e&v=20200308
 
 #EXTINF:-1 tvg-id="NationalGeographicPeople.MACAN"  tvg-logo="https://p7.hiclipart.com/preview/42/706/527/logo-national-geographic-nat-geo-people-discovery-channel-brand-design.jpg" group-title="D. Knowledge Channel", Nat Geo People
-https://delivery.macan.live/stream/id_netgeopeople/playlist.m3u8?token=CLK6e&v=20200308
+http://203.153.218.28:9981/stream/channelid/1114683377?ticket=DB6A54311D3D267C877A5894268561D2577EE4D3&profile=pass
 
 #EXTINF:-1 tvg-id="NationalGeographicWild.MACAN"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="D. Knowledge Channel", Nat Geo Wild
-https://delivery.macan.live/stream/id_natgeowild/playlist.m3u8?token=CLK6e&v=20200308
+https://vcdnjt.useetv.com/joss/15/natgeowild/chunklist_w1470091903_b1344100_sleng_520857.m3u8
 
 #EXTINF:-1 tvg-id="NatGeoPeople.MACAN"  tvg-logo="https://mediacdn.acast.com/assets/afceb62a-3487-4c96-b760-72421fdf7891/-jrosbpfb-insidecrimeinvestigation.png" group-title="D. Knowledge Channel", Crime Investigation
 https://delivery.macan.live/stream/crimeinvestigation/playlist.m3u8?token=CLK6e&v=20200308
@@ -596,6 +603,7 @@ https://vcdnjt.useetv.com/joss/14/nickelodeon/chunklist_w2020530064_b684100_slen
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_spacetoonplus_small1.png" group-title="E. Kids Channel", SPACETOON PLUS Backup
 https://vcdnjt.useetv.com/joss/14/spacetoonplus/chunklist_w549968608_b684100_sleng_69630.m3u8
+
 
 ######## F. Malaysia Channel #########
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/4xmLP1mD/Photo-1591074609991.jpg" group-title="F. Malaysia Channel",RTB
