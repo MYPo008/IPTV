@@ -682,3 +682,24 @@ http://stream2.ninmedia.tv/lapakmusiktv/rtmp.stream_360p/playlist.m3u8
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 
 
+######## H. Korea Channel #########
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5c/TvN_Old.jpg" group-title="H. Korea Channel",TVN
+https://vcdnjt.useetv.com/joss/15/tvn/chunklist_w1484909976_b1344100_sleng_80944.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/K_Plus_Asia_Logo.jpg/250px-K_Plus_Asia_Logo.jpg" group-title="H. Korea Channel",K Plus
+https://vcdnjt.useetv.com/joss/15/kplus/chunklist_w1091988068_b894100_sleng_80941.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-kMloFMG0Mt4/Waquz5GL5xI/AAAAAAAAAGQ/TY1bdc6tx-IzDlcf_5gaSPwoHlIt9p4jgCLcBGAs/w1200-h630-p-k-no-nu/S-One-HD-Ch393.png" group-title="H. Korea Channel",Sony One
+https://vcdnjt.useetv.com/joss/15/sone/chunklist_w1053728636_b894100_sleng_80942.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1b/Sony_gem_asia.png" group-title="H. Korea Channel",Sony Gem
+https://vcdnjt.useetv.com/joss/15/sgem/chunklist_w2048588563_b894100_sleng_papabor.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/56/SBS_Plus_logo.png" group-title="H. Korea Channel",SBS Plus
+https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/1280px-SBS_Korea_Logo_%28Word_Only%29.svg.png" group-title="H. Korea Channel",SBS Korea
+https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/6Gh76BXazn.png" group-title="H. Korea Channel",KBS World
+https://vcdnjt.useetv.com/joss/15/kbsworld/chunklist_w1028077852_b684100_sleng_enc=ZNfXlsy3xR14nAbr2jkhCg.m3u8
