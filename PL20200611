@@ -159,16 +159,16 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Str
 
 ######## B. MovieBiz Channel #########
 #EXTINF:-1 tvg-id="HBO.MACAN" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="B. MovieBiz Channel", HBO
-https://delivery.macan.live/stream/hbo/playlist.m3u8?token=CLK6e&v=20200308
+http://iptv.burhansyam.com/hbo/hbo.m3u8
 
 #EXTINF:-1 tvg-id="HBOFamily.MACAN" tvg-ID="HBOFamily.MACAN" tvg-logo="https://macan.live/img/hbo_family.png" group-title="B. MovieBiz Channel", HBO Family
-https://delivery.macan.live/stream/hbo_family/playlist.m3u8?token=CLK6e&v=20200308
+http://203.153.218.28:9981/stream/channelid/1316004766?ticket=61B6D14FFCC616019D571AC85FA514703D3C83B4&profile=pass
 
 #EXTINF:-1 tvg-id="HBOHits.MACAN" tvg-ID="HBOHits.MACAN"tvg-logo="https://macan.live/img/hbo_hits.png" group-title="B. MovieBiz Channel" , HBO Hits
-https://delivery.macan.live/stream/hbo_hits/playlist.m3u8?token=CLK6e&v=20200308
+http://203.153.218.28:9981/stream/channelid/2038175895?ticket=851317AB04C0CADDD2FEE87F52D657E1492AC735&profile=pass
 
 #EXTINF:-1 tvg-id="HBOSignature.MACAN" tvg-ID="HBOSignature.MACAN"tvg-logo="https://macan.live/img/hbo_signature.png" group-title="B. MovieBiz Channel" , HBO Signature
-https://delivery.macan.live/stream/hbo_signature/playlist.m3u8?token=CLK6e&v=20200308
+http://203.153.218.28:9981/stream/channelid/1197019186?ticket=AF12881090B35A16481BAF385A7CAEA4E595BC98&profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-ID="HBOSignature.MACAN" group-title="B. MovieBiz Channel" tvg-logo="https://macan.live/img/red_hbo.png", RED By HBO
 https://delivery.macan.live/stream/redhbo/playlist.m3u8?token=CLK6e&v=20200308
@@ -176,23 +176,23 @@ https://delivery.macan.live/stream/redhbo/playlist.m3u8?token=CLK6e&v=20200308
 #EXTINF:-1 tvg-id="CineMax.MACAN" tvg-ID="CineMax.MACAN" group-title="B. MovieBiz Channel" tvg-logo="https://macan.live/img/cinemaxa.png", Cinemax by HBO
 https://delivery.macan.live/stream/cinemax/playlist.m3u8?token=CLK6e&v=20200308
 
+#EXTINF:-1 tvg-id="FOXMovies.MACAN"  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_14.png" group-title="B. MovieBiz Channel", FOX Movies Premium
+http://203.153.218.28:9981/stream/channelid/756717990?ticket=1A08169169B8C3E2D95B82886B55BBBD5E6674B7&profile=pass
+
+#EXTINF:-1 tvg-id="FOXFamilyMovies.MACAN"  tvg-logo="https://x1.cdn.broiptv.online/img/fox_family.png" group-title="B. MovieBiz Channel", FOX Family Movies
+http://203.153.218.28:9981/stream/channelid/1949182550?ticket=FAA59AF9056556AD852BA91B14A11BC36F88FB30&profile=pass
+
 #EXTINF:-1 tvg-id="FX.MACAN"  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_159.png" group-title="B. MovieBiz Channel", FX
 https://delivery.macan.live/stream/id_fx/playlist.m3u8?token=CLK6e&v=20200308
 
 #EXTINF:-1 tvg-id="FOX.MACAN"  tvg-logo="https://x1.cdn.broiptv.online/img/fox.png" group-title="B. MovieBiz Channel", FOX
-https://delivery.macan.live/stream/id_fox/playlist.m3u8?token=CLK6e&v=20200308
+http://203.153.218.28:9981/stream/channelid/1910872088?ticket=9C78CF34633A925063D333AA62610E58DE4743F7&profile=pass
+
+#EXTINF:-1 tvg-id="FOXActionMovies.MACAN"  tvg-logo="https://macan.live/img/fox_action_movies.png" group-title="B. MovieBiz Channel", FOX Action Movies
+http://203.153.218.28:9981/stream/channelid/1744735983?ticket=07E4904EDFA549D56E57107CB6140923FE593775&profile=pass
 
 #EXTINF:-1 tvg-id="FOXCrime.MACAN"  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_152.png" group-title="B. MovieBiz Channel", FOX Crime
 https://delivery.macan.live/stream/id_foxcrime/playlist.m3u8?token=CLK6e&v=20200308
-
-#EXTINF:-1 tvg-id="FOXMovies.MACAN"  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_14.png" group-title="B. MovieBiz Channel", FOX Movies Premium
-https://delivery.macan.live/stream/id_foxmoviespremium/playlist.m3u8?token=CLK6e&v=20200308
-
-#EXTINF:-1 tvg-id="FOXActionMovies.MACAN"  tvg-logo="https://macan.live/img/fox_action_movies.png" group-title="B. MovieBiz Channel", FOX Action Movies
-https://delivery.macan.live/stream/id_foxactionmovies/playlist.m3u8?token=CLK6e&v=20200308
-
-#EXTINF:-1 tvg-id="FOXFamilyMovies.MACAN"  tvg-logo="https://x1.cdn.broiptv.online/img/fox_family.png" group-title="B. MovieBiz Channel", FOX Family Movies
-https://delivery.macan.live/stream/foxfamilymovies_idn/playlist.m3u8?token=CLK6e&v=20200308
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="B. MovieBiz Channel", Blue Ant Entertainment
 https://delivery.macan.live/stream/blue_ant_entertainment/playlist.m3u8?token=CLK6e&v=20200308
@@ -470,7 +470,7 @@ http://203.153.218.28:9981/stream/channelid/78064174?ticket=660D32D50E614C084246
 https://delivery.macan.live/stream/id_animalplanet/playlist.m3u8?token=CLK6e&v=20200308
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.MACAN"  tvg-logo="https://macan.live/img/discoverychannel.png" group-title="D. Knowledge Channel", Discovery Channel
-https://delivery.macan.live/stream/id_discoverychannel/playlist.m3u8?token=CLK6e&v=20200308
+http://203.153.218.28:9981/stream/channelid/1151931232?ticket=B0CF8905071E52CFEBDBE257DFA27B39601F2A6F&profile=pass
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://macan.live/img/discoveryasia.png" group-title="D. Knowledge Channel", Discovery Asia
 https://delivery.macan.live/stream/id_discoveryasia/playlist.m3u8?token=CLK6e&v=20200308
@@ -523,22 +523,22 @@ https://vcdnjt.useetv.com/joss/15/natgeowild/chunklist_b1344100_sleng_.m3u8
 
 ######## E. Kids Channel #########
 #EXTINF:-1 tvg-id="Animax.MACAN" tvg-logo="https://macan.live/img/animax.png" group-title="E. Kids Channel", ANIMAX
-https://delivery.macan.live/stream/id_animax/playlist.m3u8?token=CLK6e&v=20200308
+https://dl.dropboxusercontent.com/s/egenrjti6f34mn4/animax.m3u8?dl=0
 
 #EXTINF:-1 tvg-id="ANIPlus.MACAN" tvg-logo="https://macan.live/img/aniplus.png" group-title="E. Kids Channel", ANIPLUS
-https://delivery.macan.live/stream/id_aniplus/playlist.m3u8?token=CLK6e&v=20200308
+https://dl.dropboxusercontent.com/s/49qk07up0482d9d/aniplus.m3u8?dl=0
 
 #EXTINF:-1 tvg-id="DisneyChannel.MACAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1280px-2014_Disney_Channel_logo.svg.png" group-title="E. Kids Channel", Disney Channel
-https://delivery.macan.live/stream/id_disneychannel/playlist.m3u8?token=CLK6e&v=20200308
+http://203.153.218.28:9981/stream/channelid/31701170?ticket=7067922419741D51CC687FB596AF9C5D3C913703&profile=pass
 
-#EXTINF:-1 tvg-id="DisneyJunior.uk" tvg-logo="https://www.kindpng.com/picc/m/34-345109_transparent-disney-xd-logo-png-disney-junior-fandom.png" group-title="E. Kids Channel", DISNEY JUNIOR
+#EXTINF:-1 tvg-id="DisneyJunior.uk" tvg-logo="https://www.kindpng.com/picc/m/34-345109_transparent-disney-xd-logo-png-disney-junior-fandom.png" group-title="E. Kids Channel", Disney Junior
 https://delivery.macan.live/stream/disneyjunior/playlist.m3u8?token=CLK6e&v=20200308
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://p.kindpng.com/picc/s/73-731408_dreamworks-animation-logo-png-transparent-png.png" group-title="E. Kids Channel", Dreamworks
 https://delivery.macan.live/stream/dreamworks/playlist.m3u8?token=CLK6e&v=20200308
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f4/Dunia_Anak_Transvision.png" group-title="E. Kids Channel", Dunia Anak
-https://delivery.macan.live/stream/duniaanak/playlist.m3u8?token=CLK6e&v=20200308
+https://dl.dropbox.com/s/8lcdbexpr0zcgu3/anak.m3u8?dl=0
 
 #EXTINF:-1 tvg-id="DisneyXD.MACAN"  tvg-logo="https://i.ytimg.com/vi/2DK2OYQmSB4/maxresdefault.jpg" group-title="E. Kids Channel", Disney XD
 https://delivery.macan.live/stream/disneyxd/playlist.m3u8?token=CLK6e&v=20200308
@@ -591,8 +591,8 @@ https://vcdnjt.useetv.com/joss/14/horee/chunklist_w2132513250_b684100_sleng_875.
 #EXTINF:-1 tvg-id="" tvg-logo="https://mncvision.id/userfiles/image/channel/nickjr.jpg" group-title="E. Kids Channel", NICK JR. Backup
 https://vcdnjt.useetv.com/joss/14/nickjr/chunklist_w385685409_b684100_b684100_sleng_69513.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://mncvision.id/userfiles/image/channel/nickelodeon.png" group-title="E. Kids Channel", NICKELODEON Backup
-https://vcdnjt.useetv.com/joss/14/nickelodeon/chunklist_w1745396667_b684100_sleng_69533.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://mncvision.id/userfiles/image/channel/nickelodeon.png" group-title="E. Kids Channel", Nickelodeon ID
+https://vcdnjt.useetv.com/joss/14/nickelodeon/chunklist_w2020530064_b684100_sleng_80926.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_spacetoonplus_small1.png" group-title="E. Kids Channel", SPACETOON PLUS Backup
 https://vcdnjt.useetv.com/joss/14/spacetoonplus/chunklist_w549968608_b684100_sleng_69630.m3u8
