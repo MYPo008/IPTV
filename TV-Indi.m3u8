@@ -5,7 +5,7 @@ https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i32.photobucket.com/albums/d44/dedylaksana82/WOW_LOCALCH/MNCTV_zps83danamx.png" group-title="Local Channel", MNC TV
 https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i32.photobucket.com/albums/d44/dedylaksana82/WOW_LOCALCH/GTV_zpsa26we7pt.png" group-title="Local Channel", GTV
-https://linier3.rctiplus.id/live/eds/GTV_Logo/sa_hls/GTV_Logo-avc1_2000000=1.m3u8?4
+http://cuvillier.gentv.to:8080/Nur/Ln5vkts42G/62243
 
 #EXTINF:-1 tvg-logo="http://i.ibb.co/0mLXF0f/useemozaik.png" group-title="Local Channel",2 Mozaik Channel
 rtp://@239.1.2.223:9268
