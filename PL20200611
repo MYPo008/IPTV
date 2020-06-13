@@ -11,174 +11,131 @@ http://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
 http://cuvillier.gentv.to:8080/Nur/Ln5vkts42G/62243
 
 #EXTINF:-1 tvg-id="ANTV.MACAN" tvg-logo="https://macan.live/img/antv.png" group-title="A. Local Channel", ANTV
-https://delivery.macan.live/stream/id_antv/playlist.m3u8?token=CLK6e&v=20200308
+https://cdnbal1.useetv.com/joss/15/antv/chunklist_w226638633_b894100_sleng_87965.m3u8
 
 #EXTINF:-1 tvg-id="INDOSIAR.MACAN" tvg-logo="https://macan.live/img/indosiar.png" group-title="A. Local Channel", INDOSIAR
-https://delivery.macan.live/stream/id_indosiar/playlist.m3u8?token=CLK6e&v=20200308
+https://cdnbal1.useetv.com/joss/15/indosiar/chunklist_w2054266640_b894100_sleng_557355.m3u8
 
 #EXTINF:-1 tvg-id="SCTV.MACAN" tvg-logo="https://macan.live/img/sctv.png" group-title="A. Local Channel", SCTV
-https://delivery.macan.live/stream/id_sctv/playlist.m3u8?token=CLK6e&v=20200308
+https://cdnbal1.useetv.com/joss/15/sctv/chunklist_w1027229960_b1344100_sleng_88719.m3u8
+
+#EXTINF:-1 tvg-id="SCTV.MACAN" tvg-logo="https://macan.live/img/sctv.png" group-title="A. Local Channel", SCTV Backup
+https://dl.dropbox.com/s/9fqsjx833gxbyyu/sctv.m3u8?dl=0
 
 #EXTINF:-1 tvg-id="NetTV.MACAN" tvg-logo="https://macan.live/img/net.png" group-title="A. Local Channel", NET TV
-https://delivery.macan.live/stream/id_nettv/playlist.m3u8?token=CLK6e&v=20200308
+https://dl.dropbox.com/s/b1czwxfwgaopeqz/net.m3u8?dl=0
+
+#EXTINF:-1 tvg-id="NetTV.MACAN" tvg-logo="https://macan.live/img/net.png" group-title="A. Local Channel", NET TV HD
+https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/index.m3u8
 
 #EXTINF:-1 tvg-id="Trans7.MACAN" tvg-logo="https://macan.live/img/trans7.png" group-title="A. Local Channel", TRANS 7
-https://delivery.macan.live/stream/id_trans7/playlist.m3u8?token=CLK6e&v=20200308
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1271606575_b280000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="Trans7.MACAN" tvg-logo="https://macan.live/img/trans7.png" group-title="A. Local Channel", TRANS 7 HD
+https://dl.dropbox.com/s/e5si1bmmtx4hgq9/trans7.m3u8?dl=0
 
 #EXTINF:-1 tvg-id="TransTV.MACAN" tvg-logo="https://macan.live/img/transtv.png" group-title="A. Local Channel", TRANS TV
-https://delivery.macan.live/stream/id_transtv/playlist.m3u8?token=CLK6e&v=20200308
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1271606575_b280000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="TransTV.MACAN" tvg-logo="https://macan.live/img/transtv.png" group-title="A. Local Channel", TRANS TV HD
+https://dl.dropbox.com/s/e5si1bmmtx4hgq9/trans7.m3u8?dl=0
 
 #EXTINF:-1 tvg-id="TVONE.MACAN" tvg-logo="https://macan.live/img/tvone.png" group-title="A. Local Channel", TV ONE
-https://delivery.macan.live/stream/id_tvone/playlist.m3u8?token=CLK6e&v=20200308
+https://vcdnjt.useetv.com/joss/15/tvone/chunklist_w1407325584_b894100_sleng_519110.m3u8
+
+#EXTINF:-1 tvg-id="TVONE.MACAN" tvg-logo="https://macan.live/img/tvone.png" group-title="A. Local Channel", TV ONE HD
+https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(7e352a4d-dcc4-4c48-b06c-38c7b36b14d4)/index.m3u8
 
 #EXTINF:-1 tvg-id="MetroTV.MACAN" tvg-logo="https://macan.live/img/metrotv.png" group-title="A. Local Channel", METRO TV
-https://delivery.macan.live/stream/id_metrotv/playlist.m3u8?token=CLK6e&v=20200308
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2076301259_b1492000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="MetroTV.MACAN" tvg-logo="https://macan.live/img/metrotv.png" group-title="A. Local Channel", METRO TV Backup
+https://cdnbal1.useetv.com/joss/15/metrotv/chunklist_w1262584048_b894100_sleng_307627.m3u8
 
 #EXTINF:-1 tvg-id="KompasTv.MACAN" tvg-logo="https://macan.live/img/kompastv.png" group-title="A. Local Channel", KOMPAS TV
-https://delivery.macan.live/stream/id_kompastv/playlist.m3u8?token=CLK6e&v=20200308
+https://cdnbal1.useetv.com/joss/15/kompastv/chunklist_w939544518_b494100_sleng_557368.m3u8
 
-#EXTINF:-1 tvg-id="CNNA. Local Channel.MACAN"  tvg-logo="https://macan.live/img/cnn.png" group-title="A. Local Channel", CNN A. Local Channel
-https://delivery.macan.live/stream/id_cnn/playlist.m3u8?token=CLK6e&v=20200308
+#EXTINF:-1 tvg-id="CNNA. Local Channel.MACAN"  tvg-logo="https://macan.live/img/cnn.png" group-title="A. Local Channel", CNN Indonesia
+https://cdnbal1.useetv.com/joss/15/cnnindonesia/chunklist_w529394774_b1344100_sleng_176479.m3u8
 
-#EXTINF:-1 tvg-id="CNBC.MACAN"  tvg-logo="https://macan.live/img/cnbc.png" group-title="A. Local Channel", CNBC A. Local Channel
-https://delivery.macan.live/stream/id_cnbc/playlist.m3u8?token=CLK6e&v=20200308
+#EXTINF:-1 tvg-id="CNBC.MACAN"  tvg-logo="https://macan.live/img/cnbc.png" group-title="A. Local Channel", CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w290751272_b192000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="DaaiTv.MACAN"  tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e3/DAAI_TV_Jakarta.png" group-title="A. Local Channel", DAAI TV
-https://delivery.macan.live/stream/id_daai/playlist.m3u8?token=CLK6e&v=20200308
+https://cdnbal1.useetv.com/joss/14/daaitv/chunklist_w499563901_b684100_sleng_37921.m3u8
 
 #EXTINF:-1 tvg-id="JakTV.MACAN"  tvg-logo="https://jak-tv.com/theme/jaktv/images/repository/jaktv-header-logo.png" group-title="A. Local Channel", JAKTV
-https://delivery.macan.live/stream/id_jaktv/playlist.m3u8?token=CLK6e&v=20200308
+https://cdnbal1.useetv.com/joss/14/jaktv/chunklist_w1342810570_b684100_sleng_122404.m3u8
 
 #EXTINF:-1 tvg-id="BeritaSatu.MACAN"  tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e7/BeritaSatu.png" group-title="A. Local Channel", BeritaSatu
-https://delivery.macan.live/stream/id_beritasatu/playlist.m3u8?token=CLK6e&v=20200308
+https://cdnbal1.useetv.com/joss/14/beritasatu/chunklist_w19392159_b684100_sleng_124723.m3u8
 
 #EXTINF:-1 tvg-id="RTV.MACAN"  tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9e/RtvA. Local Channel.png" group-title="A. Local Channel", RTV
-https://delivery.macan.live/stream/id_rajawalitv/playlist.m3u8?token=CLK6e&v=20200308
+https://cdnbal1.useetv.com/joss/14/rtv/chunklist_w511645015_b684100_sleng_37857.m3u8
+
+#EXTINF:-1 tvg-id="RTV.MACAN"  tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9e/RtvA. Local Channel.png" group-title="A. Local Channel", RTV Backup
+https://cdn-livetv5.metube.id/hls/rtv_480/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png" group-title="A. Local Channel", TVRI
+https://vcdnjt.useetv.com/joss/15/tvri/chunklist_w1013761133_b684100_sleng_270843.m3u8
 
 #EXTINF:-1 tvg-id="TVRI.MACAN"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="A. Local Channel", TVRI Nasional
-https://delivery.macan.live/stream/id_tvri/playlist.m3u8?token=CLK6e&v=20200308
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png" group-title="A. Local Channel", TVRI NASIONAL Backup
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png" group-title="A. Local Channel", TVRI 2 Backup
+http://210.210.155.35:80/qwr9ew/s/s11/02.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png" group-title="A. Local Channel", TVRI BUDAYA Backup
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://macan.live/img/tvri.png" group-title="A. Local Channel", TVRI Sport HD
-https://delivery.macan.live/stream/tvrisport_hd/playlist.m3u8?token=CLK6e&v=20200308
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://macan.live/img/jowo.png" group-title="A. Local Channel", Jowo Channel
 https://delivery.macan.live/stream/jowo/playlist.m3u8?token=CLK6e&v=20200308
 
 #EXTINF:-1 tvg-id="IDX.MACAN"  tvg-logo="https://macan.live/img/idx.png" group-title="A. Local Channel", IDX
-https://delivery.macan.live/stream/idx/playlist.m3u8?token=CLK6e&v=20200308
+https://vcdnjt.useetv.com/joss/14/idx/chunklist_w1078674544_b684100_sleng_338.m3u8
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Salamtv.png" group-title="A. Local Channel", Salam TV
-https://delivery.macan.live/stream/salam_tv/playlist.m3u8?token=CLK6e&v=20200308
+http://wowza60.indostreamserver.com:1935/salamtv/live/chunklist_w284712012.m3u8
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://macan.live/img/jtv.png" group-title="A. Local Channel", JTV
-https://delivery.macan.live/stream/id_jtv/playlist.m3u8?token=CLK6e&v=20200308
+https://cdnbal1.useetv.com/joss/14/jtv/chunklist_w1586153396_b684100_sleng_37903.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-id="RCTI.MACAN" tvg-name="RCTI" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" group-title="A. Local Channel", RCTI Backup
-https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-id="MNCTV.MACAN" tvg-name="MNC TV ID" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png" group-title="A. Local Channel", MNC Backup
-https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="A. Local Channel", ANTV Backup
-https://vcdnjt.useetv.com/joss/15/antv/chunklist_w226638633_b894100_sleng_87965.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="A. Local Channel", GTV Backup
-http://cuvillier.gentv.to:8080/Nur/Ln5vkts42G/62243
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="A. Local Channel", SCTV Backup
-https://vcdnjt.useetv.com/joss/15/sctv/chunklist_w1027229960_b1344100_sleng_88719.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png" group-title="A. Local Channel",INDOSIAR Backup
-https://cdnmdc2.useetv.com/joss/15/indosiar/chunklist_w72459728_b894100_sleng_108233.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png" group-title="A. Local Channel", NET TV Backup
-https://cdnbpp1.useetv.com/joss/15/net/chunklist_w1761005650_b894100_sleng_310393.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png" group-title="A. Local Channel", NET TV HD Backup
-https://vcdnjt.useetv.com/joss/15/net/chunklist_w85625087_b1344100_sleng_155444.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="A. Local Channel", TRANS 7 Backup
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1271606575_b280000_sleng.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="A. Local Channel", TRANS 7 HD Backup
-http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sleng.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="A. Local Channel", TV ONE Backup
-https://vcdnjt.useetv.com/joss/15/tvone/chunklist_b894100_sleng_.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="A. Local Channel", TRANS TV Backup
-https://cdnbpp1.useetv.com/joss/15/transtv/chunklist_w1076515494_b894100_sleng_560848.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="A. Local Channel", TRANS TV HD Backup
-https://cdnbpp1.useetv.com/joss/15/transtv/chunklist_w1076515494_b1344100_sleng_560849.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_83.png" group-title="A. Local Channel", INEWS Backup
-https://cdn-livetv6.metube.id/hls/inewstv_480/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png" group-title="A. Local Channel", RTV Backup
-http://tv2ip.nl:80/9205011494/9205011494/82510
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png" group-title="A. Local Channel", BERITASATU Backup
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnA. Local Channel_small1.png" group-title="A. Local Channel", CNN A. Local Channel Backup
-https://live.cnnA. Local Channel.com:443/livecnn/smil:cnntv.smil/chunklist_w1241960898_b192000_sleng.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnA. Local Channel_small1.png" group-title="A. Local Channel", CNN A. Local Channel HD Backup
-https://live.cnnA. Local Channel.com/livecnn/smil:cnntv.smil/chunklist_w825764297_b384000_sleng.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://mncvision.id/userfiles/image/channel/cnbc.png" group-title="A. Local Channel", CNBC Indonesia Backup
-https://live.cnbcA. Local Channel.com:443/livecnbc/smil:cnbctv.smil/chunklist_w290751272_b192000_sleng.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small1.png" group-title="A. Local Channel",KOMPAS TV Backup
-https://cdnbpp1.useetv.com/joss/15/kompastv/chunklist_w939544518_b894100_sleng_560887.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png" group-title="A. Local Channel", METRO TV Backup
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png" group-title="A. Local Channel", TVRI Backup
-https://vcdnjt.useetv.com/joss/15/tvri/chunklist_w1013761133_b684100_sleng_270843.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png" group-title="A. Local Channel", TVRI 2 Backup
-http://210.210.155.35:80/qwr9ew/s/s11/02.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png" group-title="A. Local Channel", TVRI NASIONAL Backup
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png" group-title="A. Local Channel", TVRI DKI JAKARTA Backup
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png" group-title="A. Local Channel", TVRI DKI JAKARTA
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png" group-title="A. Local Channel", TVRI BUDAYA Backup
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1111842868908318721/lMvLaebw_400x400.jpg" group-title="A. Local Channel", TVRI SPORT HD Backup
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-
 
 
 
 ######## B. MovieBiz Channel #########
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/4xmLP1mD/Photo-1591074609991.jpg" group-title="B. MovieBiz Channel",The Indonesia Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://en.wikipedia.org/wiki/File:The_Indonesia_Channel_Logo.jpg" group-title="B. MovieBiz Channel",The Indonesia Channel
 https://tic.indonusa.net.id:8443/live/TIC.stream_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBO.MACAN" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="B. MovieBiz Channel", HBO
-http://203.153.218.28:9981/stream/channelid/1316004766?ticket=6A230BCD275160BC241A718EFB00115CB1F94794&profile=pass
+http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EDA811CE90A26AD414D02B63E0A9171A68A9454C&profile=pass
 
 #EXTINF:-1 tvg-id="HBOFamily.MACAN" tvg-ID="HBOFamily.MACAN" tvg-logo="https://macan.live/img/hbo_family.png" group-title="B. MovieBiz Channel", HBO Family
-http://203.153.218.28:9981/stream/channelid/1316004766?ticket=61B6D14FFCC616019D571AC85FA514703D3C83B4&profile=pass
+http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pas
 
 #EXTINF:-1 tvg-id="HBOHits.MACAN" tvg-ID="HBOHits.MACAN"tvg-logo="https://macan.live/img/hbo_hits.png" group-title="B. MovieBiz Channel" , HBO Hits
-http://203.153.218.28:9981/stream/channelid/2038175895?ticket=851317AB04C0CADDD2FEE87F52D657E1492AC735&profile=pass
+http://203.153.218.28:9981/stream/channelid/2038175895?ticket=0299B4C37DF5A2B463E83E4FFD9AD1E91BA48253&profile=pass
 
 #EXTINF:-1 tvg-id="HBOSignature.MACAN" tvg-ID="HBOSignature.MACAN"tvg-logo="https://macan.live/img/hbo_signature.png" group-title="B. MovieBiz Channel" , HBO Signature
-http://203.153.218.28:9981/stream/channelid/1197019186?ticket=AF12881090B35A16481BAF385A7CAEA4E595BC98&profile=pass
+http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-ID="HBOSignature.MACAN" group-title="B. MovieBiz Channel" tvg-logo="https://macan.live/img/red_hbo.png", RED By HBO
 https://delivery.macan.live/stream/redhbo/playlist.m3u8?token=CLK6e&v=20200308
 
 #EXTINF:-1 tvg-id="CineMax.MACAN" tvg-ID="CineMax.MACAN" group-title="B. MovieBiz Channel" tvg-logo="https://macan.live/img/cinemaxa.png", Cinemax by HBO
 https://delivery.macan.live/stream/cinemax/playlist.m3u8?token=CLK6e&v=20200308
+
+#EXTINF:-1 group-title="B. MovieBiz Channel",Amedia Hit HBO
+http://89.106.234.4:80/amedia_hit_hd_34_35.m3u8
 
 #EXTINF:-1 tvg-id="FOXMovies.MACAN"  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_14.png" group-title="B. MovieBiz Channel", FOX Movies Premium
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=1A08169169B8C3E2D95B82886B55BBBD5E6674B7&profile=pass
@@ -192,14 +149,17 @@ https://delivery.macan.live/stream/id_fx/playlist.m3u8?token=CLK6e&v=20200308
 #EXTINF:-1 tvg-id="FOX.MACAN"  tvg-logo="https://x1.cdn.broiptv.online/img/fox.png" group-title="B. MovieBiz Channel", FOX
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=9C78CF34633A925063D333AA62610E58DE4743F7&profile=pass
 
-#EXTINF:-1 tvg-id="FOXActionMovies.MACAN"  tvg-logo="https://macan.live/img/fox_action_movies.png" group-title="B. MovieBiz Channel", FOX Action Movies
+#EXTINF:-1 tvg-id="FOXActionMovies.MACAN" tvg-logo="https://macan.live/img/fox_action_movies.png" group-title="B. MovieBiz Channel", FOX Action Movies
 http://203.153.218.28:9981/stream/channelid/1744735983?ticket=07E4904EDFA549D56E57107CB6140923FE593775&profile=pass
+
+#EXTINF:-1 tvg-id="FOXActionMovies.MACAN" tvg-logo="https://macan.live/img/fox_action_movies.png" group-title="B. MovieBiz Channel",FOX Action Movies Backup
+http://160.119.77.50/iptv/hd-foxaction.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FOXCrime.MACAN"  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_152.png" group-title="B. MovieBiz Channel", FOX Crime
 https://delivery.macan.live/stream/id_foxcrime/playlist.m3u8?token=CLK6e&v=20200308
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="B. MovieBiz Channel", Blue Ant Entertainment
-https://delivery.macan.live/stream/blue_ant_entertainment/playlist.m3u8?token=CLK6e&v=20200308
+http://210.210.155.35/session/75b3ab0c-95c0-11ea-b9c9-bb37bb625a1f/dr9445/h/h16/01.m3u8
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="B. MovieBiz Channel", Blue Ant Extreme
 http://sg1.ciscossh.us8080.ok-dns.com/session/a56bd342-95c0-11ea-96c1-a82d8016bd0f/dr9445/h/h15/01.m3u8
@@ -208,67 +168,61 @@ http://sg1.ciscossh.us8080.ok-dns.com/session/a56bd342-95c0-11ea-96c1-a82d8016bd
 https://vcdnjt.useetv.com:443/joss/15/galaxy/chunklist_w300453741_b684100_sleng_177560.m3u8?enc=l6rpqYqWLQ3V69S92YsbZg&exp=1587471181
 
 #EXTINF:-1 tvg-id="SonyOneHD.MACAN"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fd/Sonysetone_logo.png/" group-title="B. MovieBiz Channel", Sony One
-https://delivery.macan.live/stream/sonyone/playlist.m3u8?token=CLK6e&v=20200308
+https://streamer-1.toffeelive.com/live/sony_pix_576/index.m3u8
 
 #EXTINF:-1 tvg-id="WarnerTV.MACAN"  tvg-logo="https://macan.live/img/warnertv.png" group-title="B. MovieBiz Channel", Warner TV
-https://delivery.macan.live/stream/warnertv/playlist.m3u8?token=CLK6e&v=20200308
+https://edgejt7.useetv.com/joss/15/warner/chunklist_w509483601_b894100_sleng_307702.m3u8
 
 #EXTINF:-1 tvg-id="WAKUWAKUJAPAN.MACAN"  tvg-logo="https://macan.live/img/wakuwaku.png" group-title="B. MovieBiz Channel", Waku Waku Japan
-https://delivery.macan.live/stream/wakuwaku/playlist.m3u8?token=CLK6e&v=20200308
+https://vcdnjt.useetv.com:443/joss/15/wakuwaku/chunklist_w161308538_b684100_sleng_177560.m3u8?enc=T-x7_Q3IIEo9s4FevYCnsQ&exp=1587470284
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1b/Sony_gem_asia.png" group-title="B. MovieBiz Channel", Sony GEM TV
 https://delivery.macan.live/stream/id_gem/playlist.m3u8?token=CLK6e&v=20200308
 
 #EXTINF:-1 tvg-id="KIX.MACAN"  tvg-logo="https://macan.live/img/kix.png" group-title="B. MovieBiz Channel", KIX
-https://delivery.macan.live/stream/kix/playlist.m3u8?token=CLK6e&v=20200308
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
 
-#EXTINF:-1 tvg-id="TVN.MACAN"  tvg-logo="https://macan.live/img/tvn.png" group-title="B. MovieBiz Channel", TVN
-https://delivery.macan.live/stream/id_tvn/playlist.m3u8?token=CLK6e&v=20200308
-
-#EXTINF:-1 tvg-id="TVNMovies.MACAN"  tvg-logo="https://macan.live/img/tvn_movies.png" group-title="B. MovieBiz Channel", TVN Movies
-https://delivery.macan.live/stream/tvn_movies/playlist.m3u8?token=CLK6e&v=20200308
-
-#EXTINF:-1 tvg-id=""  tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/General-Entertainment/citra-dangdut.png" group-title="B. MovieBiz Channel", Citra Dangdut
-https://delivery.macan.live/stream/citra_dangdut/playlist.m3u8?token=CLK6e&v=20200308
+#EXTINF:-1 tvg-id="TVN.MACAN"  tvg-logo="https://macan.live/img/tvn.png" group-title="B. MovieBiz Channel", TVN Movies
+https://vcdnjt.useetv.com:443/joss/15/tvnmovies/chunklist_w612648122_b684100_sleng_177560.m3u8?enc=d62mNPSchE55ElLUcfFpsg&exp=1585294888&encp=lCcniWIdC5U1JwXixDiTjw&expp=1585303588
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/General-Entertainment/CitraDrama.png" group-title="B. MovieBiz Channel", Citra Drama
-https://delivery.macan.live/stream/citra_drama/playlist.m3u8?token=CLK6e&v=20200308
+https://cdnbal1.useetv.com/joss/14/cdrama/chunklist_w516557647_b684100_sleng_13343.m3u8
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://macan.live/img/dunialain.png" group-title="B. MovieBiz Channel", Dunia Lain
-https://delivery.macan.live/stream/dunialain/playlist.m3u8?token=CLK6e&v=20200308
+https://cdnmdc2.useetv.com/joss/14/dunialain/chunklist_w2020344872_b684100_sleng_38553.m3u8
 
 #EXTINF:-1 tvg-id="CelestialMovies.MACAN" tvg-logo="https://mncvision.id/userfiles/image/channel/celestial.png" group-title="B. MovieBiz Channel", CELESTIAL MOVIES
-https://delivery.macan.live/stream/cm/playlist.m3u8?token=CLK6e&v=20200308
+https://vcdnjt.useetv.com/joss/14/celestialmovie/chunklist_w1194640482_b684100_sleng_12.m3u8
 
 #EXTINF:-1 tvg-id="SCMLegend.MACAN"  tvg-logo="https://www.nowtv.now.com/media/logo/140-wbg-e.png" group-title="B. MovieBiz Channel", SCM Legend
 https://delivery.macan.live/stream/scmlegend/playlist.m3u8?token=CLK6e&v=20200308
 
 #EXTINF:-1 tvg-id="SCM.MACAN"  tvg-logo="https://i.dlpng.com/static/png/359808_preview.png" group-title="B. MovieBiz Channel", Star Chinese Movies
-https://delivery.macan.live/stream/id_scm/playlist.m3u8?token=CLK6e&v=20200308
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 
 #EXTINF:-1 tvg-id="Zee.MACAN" tvg-logo="https://macan.live/img/zeebioskop.png" group-title="B. MovieBiz Channel", ZEE BIOSKOP
-https://delivery.macan.live/stream/zeebioskop/playlist.m3u8?token=CLK6e&v=20200308
+https://cdnbal1.useetv.com/joss/14/zbioskop/chunklist_w2056934236_b684100_sleng_22256.m3u8
 
 #EXTINF:-1 tvg-id="Thrill.MACAN" tvg-logo="https://macan.live/img/thrill.png" group-title="B. MovieBiz Channel", THRILL
-https://delivery.macan.live/stream/thrill/playlist.m3u8?token=CLK6e&v=20200308
+http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
 
 #EXTINF:-1 tvg-id="HITS.MACAN"  tvg-logo="https://macan.live/img/hits.png" group-title="B. MovieBiz Channel", HITS
-https://delivery.macan.live/stream/hits/playlist.m3u8?token=CLK6e&v=20200308
-
-#EXTINF:-1 tvg-id="HITSMovies.MACAN"  tvg-logo="https://www.tiviplus.tv/wp-content/uploads/2019/08/HITS-MOVIES-Logo-250x154.png" group-title="B. MovieBiz Channel", HITS Movies
-https://delivery.macan.live/stream/hits_movies/playlist.m3u8?token=CLK6e&v=20200308
+http://210.210.155.35/uq2663/h/h37/index2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png" group-title="B. MovieBiz Channel", FLIK
-https://delivery.macan.live/stream/flik/playlist.m3u8?token=CLK6e&v=20200308
+https://cdnbal1.useetv.com/joss/15/flik/chunklist_w557803594_b1344100_sleng_557505.m3u8
 
 #EXTINF:-1 tvg-id="AXN.MACAN" tvg-logo="https://mncvision.id/userfiles/image/channel/axn_150x150.jpg" group-title="B. MovieBiz Channel", AXN
-https://delivery.macan.live/stream/id_axn/playlist.m3u8?token=CLK6e&v=20200308
+http://203.153.218.28:9981/stream/channelid/882386103?ticket=79046258DC0E930E01197AF56D3D1298958EEE07&profile=pass
+
+#EXTINF:-1 tvg-id="AXN.MACAN" tvg-logo="https://mncvision.id/userfiles/image/channel/axn_150x150.jpg" group-title="B. MovieBiz Channel", AXN Indonesia
+http://210.210.155.66/h/h141/01.m3u8
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://myrepublic.co.id/wp-content/uploads/2019/02/sinema-A. Local Channel.jpg" group-title="B. MovieBiz Channel", Sinema Indonesia
 https://delivery.macan.live/stream/sinema_A. Local Channel/playlist.m3u8?token=CLK6e&v=20200308
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png" group-title="B. MovieBiz Channel", Galaxy Premium Backup
-https://delivery.macan.live/stream/galaxy_premium/playlist.m3u8?token=CLK6e&v=20200308
+https://vcdnjt.useetv.com:443/joss/15/galaxy/chunklist_w300453741_b684100_sleng_177560.m3u8?enc=l6rpqYqWLQ3V69S92YsbZg&exp=1587471181
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://mncvision.id/userfiles/image/channel/axn_150x150.jpg" group-title="B. MovieBiz Channel", AXN Backup
 https://vcdnjt.useetv.com:443/joss/15/axn/chunklist_w1332206438_b684100_sleng_177560.m3u8?enc=oKFj9Xw1YXcLgJJxFI-NrA&exp=1587470166
@@ -282,6 +236,9 @@ http://210.210.155.35:80/dr9445/h/h15/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://mncvision.id/userfiles/image/channel/celestial.png" group-title="B. MovieBiz Channel",CELESTIAL MOVIES Backup
 https://vcdnjt.useetv.com/joss/14/celestialmovie/chunklist_w1671904161_b684100_sleng_62648.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.useetv.com/logogrey/grey_logo_cinemaworld_big.png" group-title="B. MovieBiz Channel",CINEMA WORLD IND
+http://45.126.83.51:443/uq2663/h/h04/01.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="B. MovieBiz Channel",CINEMA WORLD Backup
 https://vcdnjt.useetv.com/joss/14/cinemaworld/chunklist_w1529108846_b684100_sleng_62660.m3u8
 
@@ -290,9 +247,6 @@ http://210.210.155.69/s/s31/S4/mnf.m3u8
 
 #EXTINF:0 tvg-logo="https://x1.cdn.broiptv.online/img/fox.png" group-title="B. MovieBiz Channel",FOX
 http://203.153.218.28:9981/stream/channelid/1910872088
-
-#EXTINF:-1 tvg-id="" tvg-id="" tvg-name="" tvg-logo="https://macan.live/img/fox_action_movies.png" group-title="B. MovieBiz Channel",Fox Action Movies
-http://203.153.218.28:9981/stream/channelid/1744735983
 
 #EXTINF:0 tvg-logo="https://x1.cdn.broiptv.online/img/fox_family.png" group-title="B. MovieBiz Channel",FOX Family Movies 
 http://203.153.218.28:9981/stream/channelid/1949182550
@@ -385,16 +339,16 @@ http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2497.m3u8
 https://delivery.macan.live/stream/fightsport/playlist.m3u8?token=CLK6e&v=20200308
 
 #EXTINF:-1 tvg-id="beINSports1.MACAN"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/94/BE_IN_SPORT_1_HD_2013.jpg" group-title="C. Sport Channel", beIN Sports 1 ID
-https://delivery.macan.live/stream/macan_sport_1/playlist.m3u8?token=CLK6e&v=20200308
+https://vcdnjt.useetv.com:443/joss/15/bein1/chunklist_w1325761140_b684100_sleng_177560.m3u8?enc=vcP2SW9irdVaDSRPMvSnzA&exp=1587471217
 
 #EXTINF:-1 tvg-id="beINSports2.MACAN"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/60/Beinsports2hd.jpg/" group-title="C. Sport Channel", beIN Sports 2 ID
-https://delivery.macan.live/stream/macan_sport_2/playlist.m3u8?token=CLK6e&v=20200308
+https://vcdnjt.useetv.com:443/joss/15/bein2/chunklist_w878851015_b684100_sleng_177560.m3u8?enc=G8yv_dvfJqqhAeaNzTgXnw&exp=1587471247
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png" group-title="C. Sport Channel", Useesports 1
-https://delivery.macan.live/stream/macan_sport_3/playlist.m3u8?token=CLK6e&v=20200308
+https://vcdnjt.useetv.com/joss/15/useesport/chunklist_w2117920137_b1344100_sleng_65786.m3u8
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="C. Sport Channel", Useesports 2
-https://delivery.macan.live/stream/macan_sport_4/playlist.m3u8?token=CLK6e&v=20200308
+https://vcdnjt.useetv.com/joss/15/useesports2/chunklist_w1021856449_b1344100_sleng_87965.m3u8
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="C. Sport Channel", SERVER ID :Champions 1 TV
 https://delivery.macan.live/stream/macan_sport_5/playlist.m3u8?token=CLK6e&v=20200308
@@ -501,13 +455,13 @@ https://vcdnjt.useetv.com/joss/15/natgeowild/chunklist_w1470091903_b1344100_slen
 https://delivery.macan.live/stream/crimeinvestigation/playlist.m3u8?token=CLK6e&v=20200308
 
 #EXTINF:-1 tvg-id="Lifetime.MACAN"  tvg-logo="https://banner2.cleanpng.com/20180514/llq/kisspng-lifetime-logo-television-channel-5af961d0025737.1186371515262929440096.jpg" group-title="D. Knowledge Channel", Lifetime
-https://delivery.macan.live/stream/lifetime/playlist.m3u8?token=CLK6e&v=20200308
+https://cdnbal1.useetv.com/joss/14/lifetime/chunklist_w342345116_b684100_sleng_38141.m3u8
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="D. Knowledge Channel", Love Nature
 https://delivery.macan.live/stream/love_nature/playlist.m3u8?token=CLK6e&v=20200308
 
 #EXTINF:-1 tvg-id="History.MACAN"  tvg-logo="https://macan.live/img/history.png" group-title="D. Knowledge Channel", History
-https://delivery.macan.live/stream/history/playlist.m3u8?token=CLK6e&v=20200308
+https://cdnbal1.useetv.com/joss/15/history/chunklist_w257590522_b894100_sleng_557653.m3u8
 
 #EXTINF:-1 tvg-id="HGTV.MACAN"  tvg-logo="https://macan.live/img/hgtv.png" group-title="D. Knowledge Channel", HGTV
 https://delivery.macan.live/stream/hgtv/playlist.m3u8?token=CLK6e&v=20200308
@@ -545,19 +499,16 @@ https://dl.dropboxusercontent.com/s/49qk07up0482d9d/aniplus.m3u8?dl=0
 http://203.153.218.28:9981/stream/channelid/31701170?ticket=7067922419741D51CC687FB596AF9C5D3C913703&profile=pass
 
 #EXTINF:-1 tvg-id="DisneyJunior.uk" tvg-logo="https://www.kindpng.com/picc/m/34-345109_transparent-disney-xd-logo-png-disney-junior-fandom.png" group-title="E. Kids Channel", Disney Junior
-https://delivery.macan.live/stream/disneyjunior/playlist.m3u8?token=CLK6e&v=20200308
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://p.kindpng.com/picc/s/73-731408_dreamworks-animation-logo-png-transparent-png.png" group-title="E. Kids Channel", Dreamworks
-https://delivery.macan.live/stream/dreamworks/playlist.m3u8?token=CLK6e&v=20200308
+https://cdnbal1.useetv.com/joss/15/dreamworks/chunklist_w750266566_b894100_sleng_176563.m3u8
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f4/Dunia_Anak_Transvision.png" group-title="E. Kids Channel", Dunia Anak
 https://dl.dropbox.com/s/8lcdbexpr0zcgu3/anak.m3u8?dl=0
 
-#EXTINF:-1 tvg-id="DisneyXD.MACAN"  tvg-logo="https://i.ytimg.com/vi/2DK2OYQmSB4/maxresdefault.jpg" group-title="E. Kids Channel", Disney XD
-https://delivery.macan.live/stream/disneyxd/playlist.m3u8?token=CLK6e&v=20200308
-
 #EXTINF:-1 tvg-id="Boomerang.MACAN"  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_39.jpg" group-title="E. Kids Channel", Boomerang
-https://delivery.macan.live/stream/boomerang/playlist.m3u8?token=CLK6e&v=20200308
+http://livecdnh3.tvanywhere.ae/hls/boomerang/03.m3u8
 
 #EXTINF:-1 tvg-id="cartoonnetwork.MACAN"  tvg-logo="https://mncvision.id/userfiles/image/channel/cartoon_network.png" group-title="E. Kids Channel", Cartoon Network
 http://203.153.218.28:9981/stream/channelid/251475608?ticket=7E119C03289B159B121AD74C428131F98E22DBB7&profile=pass
@@ -588,9 +539,6 @@ https://vcdnjt.useetv.com/joss/14/babyfirst/chunklist_w1050663769_b684100_sleng_
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_39.jpg" group-title="E. Kids Channel", BOOMERANG Backup
 https://vcdnjt.useetv.com/joss/14/boomerang/chunklist_w1603072832_b684100_sleng_69450.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://mncvision.id/userfiles/image/channel/disney_junior.png" group-title="E. Kids Channel", DISNEY JUNIOR Backup
-http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_small1.png" group-title="E. Kids Channel", DUCK TV Backup
 https://vcdnjt.useetv.com/joss/14/ducktv/chunklist_w1015900296_b684100_sleng_30766.m3u8
@@ -680,6 +628,10 @@ https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b106400
 
 
 ######## G. Music Channel #########
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/General-Entertainment/citra-dangdut.png" group-title="G. Music Channel", Citra Dangdut
+https://cdnbal1.useetv.com/joss/14/citradangdut/chunklist_w981377234_b684100_sleng_7391.m3u8
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Maleo-2-Green-250x150px.png" group-title="G. Music Channel",Maleo
 http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
 
@@ -697,6 +649,10 @@ http://stream2.ninmedia.tv/lapakmusiktv/rtmp.stream_360p/playlist.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/25/9XM_Logo.jpg" group-title="G. Music Channel",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/25/9XM_Logo.jpg" group-title="G. Music Channel",Prambors
+https://cdnbal1.useetv.com/joss/14/pramborstv/chunklist_w248898669_b684100_sleng_38023.m3u8
+
 
 
 ######## H. Korea Channel #########
