@@ -86,6 +86,8 @@ rtp://@239.1.1.180:9054
 rtp://@239.1.2.58:8324
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_metrotv_big1.png" group-title="Local Channel",915 METRO TV HD
 rtp://@239.1.2.2:7986
+#EXTINF:-1 tvg-logo="http://10.6.36.38:8080/iptvepg/images/markurl/mark_1583208610196.png" group-title="HD Channel", 917 Jowo HD
+rtp://@239.1.2.212:9208
 #EXTINF:-1 tvg-logo="http://i.ibb.co/XsjccnR/ruangtrampil.png" group-title="HD Channel",900 Ruang Trampil HD
 rtp://@239.1.1.111:8640
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useesports_big1.png" group-title="HD Channel",905 Usee Sports HD
@@ -390,6 +392,32 @@ rtp://@239.1.1.68:8382
 rtp://@239.1.1.201:9180
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_dreamworks_big1.png" group-title="Kids",932 DreamWork HD
 rtp://@239.1.1.234:9222
+#EXTINF:-1 tvg-logo="http://i.ibb.co/6bX6tPj/starchinese.png" group-title="Gen Entertainment",968 Star Chinese Movies HD
+rtp://@239.1.2.231:9336
+#EXTINF:-1 tvg-logo="http://i.ibb.co/1YNbBjF/celectial.png" group-title="Gen Entertainment",611 Celestial Movie
+rtp://@239.1.1.97:8556
+#EXTINF:-1 tvg-logo="http://i.ibb.co/mGJjhzP/tvnmovie.png" group-title="Gen Entertainment",969 TVN Movie
+rtp://@239.1.2.72:8408
+#EXTINF:-1 tvg-logo="http://i.ibb.co/yR0Ms72/starmovielegend.png" group-title="Gen Entertainment",623 Star Chinese Movie Legend
+rtp://@239.1.1.151:8880
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wgxTrzm/red.png" group-title="Gen Entertainment",626 Red
+rtp://@239.1.1.114:8658
+#EXTINF:-1 tvg-logo="http://10.6.32.25:8080/iptvepg/images/markurl/mark_1554382859752.png" group-title="Gen Entertainment",524 Formosa Trial
+rtp://@239.1.2.198:9386
+#EXTINF:-1 tvg-logo="http://10.6.32.25:8080/iptvepg/images/markurl/mark_1554382859752.png" group-title="Gen Entertainment",526 CTI Asia Trial
+rtp://@239.1.2.200:9168
+#EXTINF:-1 tvg-logo="http://10.6.32.25:8080/iptvepg/images/markurl/mark_1554382859752.png" group-title="Gen Entertainment", Chinese Drama
+rtp://@239.1.2.10:8306
+#EXTINF:-1 tvg-logo="http://10.6.32.25:8080/iptvepg/images/markurl/mark_1554382859752.png" group-title="Gen Entertainment",541 Kungfu Trial
+rtp://@239.1.2.40:8206
+#EXTINF:-1 tvg-logo="http://10.6.32.25:8080/iptvepg/images/markurl/mark_1554382859752.png" group-title="Gen Entertainment",809 TVBS Trial
+rtp://@239.1.2.118:9410
+#EXTINF:-1 tvg-logo="http://10.6.32.25:8080/iptvepg/images/markurl/mark_1554382859752.png" group-title="Gen Entertainment",809 ETTV Trial
+rtp://@239.1.2.196:9406
+#EXTINF:-1 tvg-logo="http://10.6.32.25:8080/iptvepg/images/markurl/mark_1554382859752.png" group-title="Gen Entertainment",539 Shenzen International
+rtp://@239.1.1.156:8910
+#EXTINF:-1 tvg-logo="http://10.6.32.25:8080/iptvepg/images/markurl/mark_1554382859752.png" group-title="Gen Entertainment",538 Zhejiang International
+rtp://@239.1.1.154:8898
 #EXTINF:-1 tvg-logo="http://i.ibb.co/YRykgvL/donghantv.png" group-title="Gen Entertainment",540 HGTV
 rtp://@239.1.2.34:8178
 #EXTINF:-1 tvg-logo="http://i.ibb.co/SfF0zWJ/blueant.png" group-title="Gen Entertainment",511 Blue Ant Entertainment
@@ -418,8 +446,7 @@ rtp://@239.1.1.161:8940
 rtp://@239.1.1.1:7980
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tvn_big.png" group-title="Gen Entertainment",516 TVN
 rtp://@239.1.1.135:8784
-#EXTINF:-1 tvg-logo="http://10.6.32.25:8080/iptvepg/images/markurl/mark_1554382859752.png" group-title="Gen Entertainment", Chinese Drama
-rtp://@239.1.2.10:8306
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wNh1Y3R/kbsworld.png" group-title="Gen Entertainment",517 KBS World
 rtp://@239.1.1.167:8976
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_aniplus_big1.png" group-title="Gen Entertainment",518 Aniplus
