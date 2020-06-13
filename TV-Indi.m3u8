@@ -1,11 +1,11 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="http://i32.photobucket.com/albums/d44/dedylaksana82/WOW_LOCALCH/RCTIHD_zpsrxuqlquv.png" group-title="Local Channel", RCTI
-https://linier.akamaized.net/live/eds/RCTI_Logo/sa_hls/RCTI_Logo-avc1_1000000=6-mp4a_64000=2.m3u8
+https://linier.akamaized.net/live/eds/RCTI_Logo/sa_hls/RCTI_Logo-avc1_2000000=6-mp4a_64000=2.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i32.photobucket.com/albums/d44/dedylaksana82/WOW_LOCALCH/MNCTV_zps83danamx.png" group-title="Local Channel", MNC TV
-https://linier.akamaized.net/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo-avc1_1000000=2-mp4a_64000=1.m3u8
+https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i32.photobucket.com/albums/d44/dedylaksana82/WOW_LOCALCH/GTV_zpsa26we7pt.png" group-title="Local Channel", GTV
-https://linier.akamaized.net/live/eds/GTV_Logo/sa_hls/GTV_Logo-avc1_1000000=2-mp4a_64000=1.m3u8
+https://linier3.rctiplus.id/live/eds/GTV_Logo/sa_hls/GTV_Logo-avc1_2000000=1.m3u8?4
 
 #EXTINF:-1 tvg-logo="http://i.ibb.co/0mLXF0f/useemozaik.png" group-title="Local Channel",2 Mozaik Channel
 rtp://@239.1.2.223:9268
