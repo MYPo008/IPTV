@@ -1,4 +1,5 @@
 #EXTM3U
+url-tvg="https://macan.live/xmltv.php?username=epg&password=epg" x-tvg-url="https://macan.live/xmltv.php?username=epg&password=epg"
 
 #EXTINF:-1 tvg-logo="http://i.ibb.co/0mLXF0f/useemozaik.png" group-title="Local Channel",2 Mozaik Channel
 rtp://@239.1.2.223:9268
@@ -26,7 +27,7 @@ rtp://@239.1.1.31:8160
 rtp://@239.1.1.27:8136
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_trans7_big1.png" group-title="Local Channel",105 Trans 7
 rtp://@239.1.1.29:8148
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sctv_big1.png" group-title="Local Channel",107 SCTV
+#EXTINF:-1 tvg-id="SCTV.MACAN" tvg-logo="http://images.useetv.com/logo_sctv_big1.png" group-title="Local Channel",107 SCTV
 rtp://@239.1.1.21:8100
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_antv_big1.png" group-title="Local Channel",108 ANTV
 rtp://@239.1.1.15:8064
