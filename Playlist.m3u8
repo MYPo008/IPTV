@@ -336,7 +336,7 @@ http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2496.m3u8
 http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2497.m3u8
 
 #EXTINF:-1 tvg-id="FightSports.MACAN"  tvg-logo="https://www.fightsports.tv/wp-content/uploads/2017/04/FightSportsLogo2x.png" group-title="C. Sport Channel", Fight Sport
-https://delivery.macan.live/stream/fightsport/playlist.m3u8?token=CLK6e&v=20200308
+http://mantul.biz.id:8888/ucu/120620/205
 
 #EXTINF:-1 tvg-id="beINSports1.MACAN"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/94/BE_IN_SPORT_1_HD_2013.jpg" group-title="C. Sport Channel", beIN Sports 1 ID
 https://vcdnjt.useetv.com:443/joss/15/bein1/chunklist_w1325761140_b684100_sleng_177560.m3u8?enc=vcP2SW9irdVaDSRPMvSnzA&exp=1587471217
@@ -351,13 +351,13 @@ https://vcdnjt.useetv.com/joss/15/useesport/chunklist_w2117920137_b1344100_sleng
 https://vcdnjt.useetv.com/joss/15/useesports2/chunklist_w1021856449_b1344100_sleng_87965.m3u8
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="C. Sport Channel", SERVER ID :Champions 1 TV
-https://delivery.macan.live/stream/macan_sport_5/playlist.m3u8?token=CLK6e&v=20200308
+https://vcdnjt.useetv.com/joss/15/champion1/chunklist_w44562210_b1344100_sleng_205447.m3u8
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="C. Sport Channel", Champions 2 TV
-https://delivery.macan.live/stream/macan_sport_6/playlist.m3u8?token=CLK6e&v=20200308
+https://vcdnjt.useetv.com/joss/15/champion2/chunklist_w55913092_b1344100_sleng_205435.m3u8
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://www.useetv.com/assets/images/channel/logo_nba_small1.png" group-title="C. Sport Channel", NBA TV
-https://delivery.macan.live/stream/nbatv/playlist.m3u8?token=CLK6e&v=20200308
+https://edgejt6.useetv.com/joss/15/nba/chunklist_w157086584_b894100_sleng_176306.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="C. Sport Channel", Mola Sport
 https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/06.m3u8
@@ -452,19 +452,19 @@ http://203.153.218.28:9981/stream/channelid/1114683377?ticket=DB6A54311D3D267C87
 https://vcdnjt.useetv.com/joss/15/natgeowild/chunklist_w1470091903_b1344100_sleng_520857.m3u8
 
 #EXTINF:-1 tvg-id="NatGeoPeople.MACAN"  tvg-logo="https://mediacdn.acast.com/assets/afceb62a-3487-4c96-b760-72421fdf7891/-jrosbpfb-insidecrimeinvestigation.png" group-title="D. Knowledge Channel", Crime Investigation
-https://delivery.macan.live/stream/crimeinvestigation/playlist.m3u8?token=CLK6e&v=20200308
+http://178.159.5.210:1000/play/SonyCrime/index.m3u8
 
 #EXTINF:-1 tvg-id="Lifetime.MACAN"  tvg-logo="https://banner2.cleanpng.com/20180514/llq/kisspng-lifetime-logo-television-channel-5af961d0025737.1186371515262929440096.jpg" group-title="D. Knowledge Channel", Lifetime
 https://cdnbal1.useetv.com/joss/14/lifetime/chunklist_w342345116_b684100_sleng_38141.m3u8
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="D. Knowledge Channel", Love Nature
-https://delivery.macan.live/stream/love_nature/playlist.m3u8?token=CLK6e&v=20200308
+http://iptvstream.xyz:8080/12679/e37ad312/78665
 
 #EXTINF:-1 tvg-id="History.MACAN"  tvg-logo="https://macan.live/img/history.png" group-title="D. Knowledge Channel", History
 https://cdnbal1.useetv.com/joss/15/history/chunklist_w257590522_b894100_sleng_557653.m3u8
 
 #EXTINF:-1 tvg-id="HGTV.MACAN"  tvg-logo="https://macan.live/img/hgtv.png" group-title="D. Knowledge Channel", HGTV
-https://delivery.macan.live/stream/hgtv/playlist.m3u8?token=CLK6e&v=20200308
+http://iptvstream.xyz:8080/12679/e37ad312/162518
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://macan.live/img/afc.png" group-title="D. Knowledge Channel", AFC
 http://203.153.218.28:9981/stream/channelid/1092664456?ticket=55F1D428F8430B8043855EE1A817CAD070D7E395&profile=pass
