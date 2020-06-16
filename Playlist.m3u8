@@ -4,13 +4,22 @@ url-tvg="http://tvku.live:8888/xmltv.php?username=epg&password=epg" x-tvg-url="h
 
 
 ######## A. Local Channel #########
-#EXTINF:-1 tvg-id="RCTI.MACAN" tvg-name="RCTI" tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/0/09/20170705042443%21RCTI_MNC-Group.png" group-title="A. Local Channel", RCTI
+#EXTINF:-1 tvg-id="" tvg-id="RCTI.MACAN" tvg-name="RCTI" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" group-title="A. Local Channel", RCTI
+http://iptv.burhansyam.com/rcti.m3u8
+
+#EXTINF:-1 tvg-id="RCTI.MACAN" tvg-name="RCTI" tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/0/09/20170705042443%21RCTI_MNC-Group.png" group-title="A. Local Channel", RCTI Backup
 http://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
 
-#EXTINF:-1 tvg-id="MNCTV.MACAN" tvg-name="MNC TV ID" tvg-logo="https://macan.live/img/mnctv.png" group-title="A. Local Channel", MNC
+#EXTINF:-1 tvg-id="" tvg-id="MNCTV.MACAN" tvg-name="MNC TV ID" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png" group-title="A. Local Channel", MNC
+http://iptv.burhansyam.com/mnctv.m3u8
+
+#EXTINF:-1 tvg-id="MNCTV.MACAN" tvg-name="MNC TV ID" tvg-logo="https://macan.live/img/mnctv.png" group-title="A. Local Channel", MNC Backup
 http://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
 
-#EXTINF:-1 tvg-id="GlobalTV.MACAN" tvg-logo="https://macan.live/img/gtv.png" group-title="A. Local Channel", GTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="A. Local Channel", GTV
+http://iptv.burhansyam.com/global.m3u8
+
+#EXTINF:-1 tvg-id="GlobalTV.MACAN" tvg-logo="https://macan.live/img/gtv.png" group-title="A. Local Channel", GTV Backup
 http://iptv.burhansyam.com/global.m3u8
 
 #EXTINF:-1 tvg-id="ANTV.MACAN" tvg-logo="https://macan.live/img/antv.png" group-title="A. Local Channel", ANTV
@@ -125,20 +134,35 @@ http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EDA811CE90A26AD414
 #EXTINF:-1 tvg-id="HBOFamily.MACAN" tvg-ID="HBOFamily.MACAN" tvg-logo="https://macan.live/img/hbo_family.png" group-title="B. MovieBiz Channel", HBO Family
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pas
 
+#EXTINF:-1 tvg-id="HBOFamily.MACAN" tvg-ID="HBOFamily.MACAN" tvg-logo="https://macan.live/img/hbo_family.png" group-title="B. MovieBiz Channel", HBO Family Backup
+http://82.118.242.137:80/iXebt9nmrU/esGU57px6r/62172
+
 #EXTINF:-1 tvg-id="HBOHits.MACAN" tvg-ID="HBOHits.MACAN"tvg-logo="https://macan.live/img/hbo_hits.png" group-title="B. MovieBiz Channel" , HBO Hits
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=0299B4C37DF5A2B463E83E4FFD9AD1E91BA48253&profile=pass
 
 #EXTINF:-1 tvg-id="HBOHits.MACAN" tvg-ID="HBOHits.MACAN"tvg-logo="https://macan.live/img/hbo_hits.png" group-title="B. MovieBiz Channel" , HBO Hits Backup
 http://203.153.218.28:9981/stream/channelid/78064174?ticket=660D32D50E614C084246AEB35D9D916F70E2FE63&profile=pass
 
+#EXTINF:-1 tvg-id="HBOHits.MACAN" tvg-ID="HBOHits.MACAN"tvg-logo="https://macan.live/img/hbo_hits.png" group-title="B. MovieBiz Channel" , HBO Hits Backup 2
+http://82.118.242.137:80/iXebt9nmrU/esGU57px6r/62173
+
 #EXTINF:-1 tvg-id="HBOSignature.MACAN" tvg-ID="HBOSignature.MACAN"tvg-logo="https://macan.live/img/hbo_signature.png" group-title="B. MovieBiz Channel" , HBO Signature
 http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
 
-#EXTINF:-1 tvg-id="" tvg-ID="HBOSignature.MACAN" group-title="B. MovieBiz Channel" tvg-logo="https://macan.live/img/red_hbo.png", RED By HBO
-https://delivery.macan.live/stream/redhbo/playlist.m3u8?token=CLK6e&v=20200308
+#EXTINF:-1 tvg-id="HBOSignature.MACAN" tvg-ID="HBOSignature.MACAN"tvg-logo="https://macan.live/img/hbo_signature.png" group-title="B. MovieBiz Channel" , HBO Signature Backup
+http://82.118.242.137:80/iXebt9nmrU/esGU57px6r/62174
 
-#EXTINF:-1 tvg-id="CineMax.MACAN" tvg-ID="CineMax.MACAN" group-title="B. MovieBiz Channel" tvg-logo="https://macan.live/img/cinemaxa.png", Cinemax by HBO
-https://delivery.macan.live/stream/cinemax/playlist.m3u8?token=CLK6e&v=20200308
+#EXTINF:-1 tvg-id="" tvg-ID="HBOSignature.MACAN" tvg-logo="https://macan.live/img/red_hbo.png" group-title="B. MovieBiz Channel" , RED By HBO
+http://82.118.242.137:80/iXebt9nmrU/esGU57px6r/62171
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="B. MovieBiz Channel" , SERVER ID : Love Nature
+http://iptvstream.xyz:8080/12679/e37ad312/78665
+
+#EXTINF:-1 tvg-id="CineMax.MACAN" tvg-ID="CineMax.MACAN" tvg-logo="https://macan.live/img/cinemaxa.png" group-title="B. MovieBiz Channel" , Cinemax by HBO
+http://82.118.242.137:80/iXebt9nmrU/esGU57px6r/62170
+
+#EXTINF:-1 tvg-id="HGTV.MACAN"  tvg-logo="https://macan.live/img/hgtv.png" group-title="B. MovieBiz Channel", HGTV
+http://iptvstream.xyz:8080/12679/e37ad312/162518
 
 #EXTINF:-1 group-title="B. MovieBiz Channel",Amedia Hit HBO
 http://89.106.234.4:80/amedia_hit_hd_34_35.m3u8
@@ -179,11 +203,17 @@ http://210.210.155.35/session/75b3ab0c-95c0-11ea-b9c9-bb37bb625a1f/dr9445/h/h16/
 #EXTINF:-1 tvg-id=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="B. MovieBiz Channel", Blue Ant Entertainment Backup
 http://210.210.155.35:80/dr9445/h/h16/01.m3u8
 
+#EXTINF:-1 tvg-id=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="B. MovieBiz Channel", Blue Ant Entertainment Backup2
+https://edgejt6.useetv.com/joss/14/blueant/chunklist_w1137014543_b684100_sleng_stgiptv.m3u8
+
 #EXTINF:-1 tvg-id=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="B. MovieBiz Channel", Blue Ant Extreme
 http://sg1.ciscossh.us8080.ok-dns.com/session/a56bd342-95c0-11ea-96c1-a82d8016bd0f/dr9445/h/h15/01.m3u8
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="B. MovieBiz Channel", Blue Ant Extreme Backup
 http://210.210.155.35:80/dr9445/h/h15/01.m3u8
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="B. MovieBiz Channel", Blue Ant Extreme Backup2
+https://edgejt6.useetv.com/joss/14/blueantextreme/chunklist_w838444806_b684100_sleng_38122.m3u8
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="B. MovieBiz Channel", Galaxy
 https://vcdnjt.useetv.com:443/joss/15/galaxy/chunklist_w300453741_b684100_sleng_177560.m3u8?enc=l6rpqYqWLQ3V69S92YsbZg&exp=1587471181
@@ -395,6 +425,13 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
 
 #EXTINF:-1  tvg-logo="https://seeklogo.com/images/S/SportsMax-logo-CE170AE84D-seeklogo.com.gif" group-title="C. Sport Channel", SPORTS MAX
 http://161.0.157.9/PLTV/88888888/224/3221226766/index.m3u8
+
+#EXTINF:-1 tvg-id="FightSports.MACAN"  tvg-logo="https://www.fightsports.tv/wp-content/uploads/2017/04/FightSportsLogo2x.png" group-title="C. Sport Channel", SERVER ID : Fight Sport
+http://178.132.78.40:8080/DHqQSdo5G0/4on7pnN1pP/62258
+
+
+
+
 
 
 ######## D. Knowledge Channel #########
@@ -680,6 +717,9 @@ https://vcdnjt.useetv.com/joss/15/sone/chunklist_w1053728636_b894100_sleng_80942
 #EXTINF:-1 tvg-id="SonyOneHD.MACAN"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fd/Sonysetone_logo.png/" group-title="H. Asia Channel", Sony One Backup
 https://streamer-1.toffeelive.com/live/sony_pix_576/index.m3u8
 
+#EXTINF:-1 tvg-id="SonyOneHD.MACAN"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fd/Sonysetone_logo.png/" group-title="H. Asia Channel", Sony One Backup2
+https://cdnjt25.useetv.com/joss/15/sone/chunklist_w697849897_b684100_sleng_557717.m3u8
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/56/SBS_Plus_logo.png" group-title="H. Asia Channel", SBS Plus
 https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
 
@@ -698,6 +738,9 @@ https://edgejt7.useetv.com/joss/15/warner/chunklist_w509483601_b894100_sleng_307
 #EXTINF:-1 tvg-id="WAKUWAKUJAPAN.MACAN"  tvg-logo="https://macan.live/img/wakuwaku.png" group-title="H. Asia Channel", Waku Waku Japan
 https://vcdnjt.useetv.com:443/joss/15/wakuwaku/chunklist_w161308538_b684100_sleng_177560.m3u8?enc=T-x7_Q3IIEo9s4FevYCnsQ&exp=1587470284
 
+#EXTINF:-1 tvg-id="WAKUWAKUJAPAN.MACAN"  tvg-logo="https://macan.live/img/wakuwaku.png" group-title="H. Asia Channel", Waku Waku Japan Backup
+https://edgejt6.useetv.com/joss/15/wakuwaku/chunklist_w71803447_b894100_sleng_557664.m3u8
+
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV5_%28logo%29.svg/800px-TV5_%28logo%29.svg.png" group-title="H. Asia Channel",TV5Monde
 https://cdnmdc1.useetv.com/joss/14/tv5monde/chunklist_w432834801_b684100_sleng_142508.m3u8
 
@@ -706,6 +749,9 @@ https://cdnbpp1.useetv.com/joss/14/nhkworld/chunklist_w723833860_b684100_sleng_1
 
 #EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/8/8d/Arirang_%282005-.n.v.%29.png/revision/latest?cb=20180211163942" group-title="H. Asia Channel", ARIRANG
 https://cdnbpp1.useetv.com/joss/14/arirang/chunklist_w2073019601_b684100_sleng_122373.m3u8
+
+#EXTINF:-1 tvg-id="SCMLegend.MACAN"  tvg-logo="https://www.nowtv.now.com/media/logo/140-wbg-e.png" group-title="H. Asia Channel", SCM Legend
+http://82.118.242.137:80/iXebt9nmrU/esGU57px6r/62194
 
 
 
