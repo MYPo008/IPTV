@@ -475,8 +475,14 @@ https://cdnkbl1.useetv.com/joss/14/cgtndocumentary/chunklist_w688449162_b684100_
 #EXTINF:-1 tvg-id="Animax.MACAN" tvg-logo="https://macan.live/img/animax.png" group-title="E. Kids Channel", ANIMAX
 https://dl.dropboxusercontent.com/s/egenrjti6f34mn4/animax.m3u8?dl=0
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="E. Kids Channel", ANIMAX Backup
+https://vcdnjt.useetv.com/joss/14/animax/chunklist_w739131567_b684100_sleng_70005.m3u8
+
 #EXTINF:-1 tvg-id="ANIPlus.MACAN" tvg-logo="https://macan.live/img/aniplus.png" group-title="E. Kids Channel", ANIPLUS
 https://dl.dropboxusercontent.com/s/49qk07up0482d9d/aniplus.m3u8?dl=0
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_big1.png" group-title="E. Kids Channel",ANIPLUS Backup
+https://vcdnjt.useetv.com/joss/14/aniplus/chunklist_w1639792963_b684100_sleng_70259.m3u8
 
 #EXTINF:-1 tvg-id="DisneyChannel.MACAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1280px-2014_Disney_Channel_logo.svg.png" group-title="E. Kids Channel", Disney Channel
 http://203.153.218.28:9981/stream/channelid/31701170?ticket=7067922419741D51CC687FB596AF9C5D3C913703&profile=pass
@@ -490,14 +496,20 @@ https://cdnbal1.useetv.com/joss/15/dreamworks/chunklist_w750266566_b894100_sleng
 #EXTINF:-1 tvg-id=""  tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f4/Dunia_Anak_Transvision.png" group-title="E. Kids Channel", Dunia Anak
 https://dl.dropbox.com/s/8lcdbexpr0zcgu3/anak.m3u8?dl=0
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png" group-title="E. Kids Channel", Dunia Anak Backup
+https://vcdnjt.useetv.com/joss/14/duniaanak/chunklist_w208610592_b684100_sleng_69494.m3u8
+
 #EXTINF:-1 tvg-id="Boomerang.MACAN"  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_39.jpg" group-title="E. Kids Channel", Boomerang
 http://livecdnh3.tvanywhere.ae/hls/boomerang/03.m3u8
+
+#EXTINF:-1 tvg-id="Boomerang.MACAN"  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_39.jpg" group-title="E. Kids Channel", Boomerang Backup
+https://vcdnjt.useetv.com/joss/14/boomerang/chunklist_w1603072832_b684100_sleng_69450.m3u8
 
 #EXTINF:-1 tvg-id="cartoonnetwork.MACAN"  tvg-logo="https://mncvision.id/userfiles/image/channel/cartoon_network.png" group-title="E. Kids Channel", Cartoon Network
 http://203.153.218.28:9981/stream/channelid/251475608?ticket=7E119C03289B159B121AD74C428131F98E22DBB7&profile=pass
 
 #EXTINF:-1 tvg-id="Nickelodeon.MACAN"  tvg-logo="https://www.groundedreason.com/wp-content/uploads/2018/08/nickelodeon_logo_1020.0-1024x257.jpg" group-title="E. Kids Channel", Nickelodeon
-https://delivery.macan.live/stream/nickelodeon/playlist.m3u8?token=CLK6e&v=20200308
+https://vcdnjt.useetv.com/joss/14/nickelodeon/chunklist_w2020530064_b684100_sleng_80926.m3u8
 
 #EXTINF:-1 tvg-id="NickelodeonJr.MACAN"  tvg-logo="https://mncvision.id/userfiles/image/channel/nickjr.jpg" group-title="E. Kids Channel", Nick Jr
 https://delivery.macan.live/stream/nickjr/playlist.m3u8?token=CLK6e&v=20200308
@@ -505,38 +517,22 @@ https://delivery.macan.live/stream/nickjr/playlist.m3u8?token=CLK6e&v=20200308
 #EXTINF:-1 tvg-id="BabyTV.MACAN"  tvg-logo="https://jsat.tv/gallery/var/albums/TV%20Logos/babytv.png?m=1458721481" group-title="E. Kids Channel", BabyTV
 https://delivery.macan.live/stream/babytv/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="E. Kids Channel", ANIMAX Backup
-https://vcdnjt.useetv.com/joss/14/animax/chunklist_w739131567_b684100_sleng_70005.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_big1.png" group-title="E. Kids Channel",ANIPLUS Backup
-https://vcdnjt.useetv.com/joss/14/aniplus/chunklist_w1639792963_b684100_sleng_70259.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://mncvision.id/userfiles/image/channel/cartoon_network.png" group-title="E. Kids Channel",CARTOON NETWORK Backup
-http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="E. Kids Channel", BABY FIRST Backup
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="E. Kids Channel", BABY FIRST
 https://vcdnjt.useetv.com/joss/14/babyfirst/chunklist_w1050663769_b684100_sleng_69390.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_39.jpg" group-title="E. Kids Channel", BOOMERANG Backup
-https://vcdnjt.useetv.com/joss/14/boomerang/chunklist_w1603072832_b684100_sleng_69450.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_small1.png" group-title="E. Kids Channel", DUCK TV Backup
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_small1.png" group-title="E. Kids Channel", DUCK TV
 https://vcdnjt.useetv.com/joss/14/ducktv/chunklist_w1015900296_b684100_sleng_30766.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png" group-title="E. Kids Channel", DUNIA ANAK Backup
-https://vcdnjt.useetv.com/joss/14/duniaanak/chunklist_w208610592_b684100_sleng_69494.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png" group-title="E. Kids Channel", HOREE Backup
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png" group-title="E. Kids Channel", HOREE
 https://vcdnjt.useetv.com/joss/14/horee/chunklist_w2132513250_b684100_sleng_875.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://mncvision.id/userfiles/image/channel/nickjr.jpg" group-title="E. Kids Channel", NICK JR. Backup
+#EXTINF:-1 tvg-id="" tvg-logo="https://mncvision.id/userfiles/image/channel/nickjr.jpg" group-title="E. Kids Channel", NICK JR.
 https://vcdnjt.useetv.com/joss/14/nickjr/chunklist_w385685409_b684100_b684100_sleng_69513.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://mncvision.id/userfiles/image/channel/nickelodeon.png" group-title="E. Kids Channel", Nickelodeon ID
-https://vcdnjt.useetv.com/joss/14/nickelodeon/chunklist_w2020530064_b684100_sleng_80926.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_spacetoonplus_small1.png" group-title="E. Kids Channel", SPACETOON PLUS Backup
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_spacetoonplus_small1.png" group-title="E. Kids Channel", SPACETOON PLUS
 https://vcdnjt.useetv.com/joss/14/spacetoonplus/chunklist_w549968608_b684100_sleng_69630.m3u8
+
+
 
 
 ######## F. Malaysia Channel #########
