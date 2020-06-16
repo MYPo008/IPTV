@@ -472,16 +472,16 @@ https://cdnkbl1.useetv.com/joss/14/cgtndocumentary/chunklist_w688449162_b684100_
 
 
 ######## E. Kids Channel #########
-#EXTINF:-1 tvg-id="Animax.MACAN" tvg-logo="https://macan.live/img/animax.png" group-title="E. Kids Channel", ANIMAX
+#EXTINF:-1 tvg-id="Animax.MACAN" tvg-logo="https://macan.live/img/animax.png" group-title="E. Kids Channel", Animax
 https://dl.dropboxusercontent.com/s/egenrjti6f34mn4/animax.m3u8?dl=0
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="E. Kids Channel", ANIMAX Backup
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="E. Kids Channel", Animax Backup
 https://vcdnjt.useetv.com/joss/14/animax/chunklist_w739131567_b684100_sleng_70005.m3u8
 
-#EXTINF:-1 tvg-id="ANIPlus.MACAN" tvg-logo="https://macan.live/img/aniplus.png" group-title="E. Kids Channel", ANIPLUS
+#EXTINF:-1 tvg-id="ANIPlus.MACAN" tvg-logo="https://macan.live/img/aniplus.png" group-title="E. Kids Channel", AniPlus
 https://dl.dropboxusercontent.com/s/49qk07up0482d9d/aniplus.m3u8?dl=0
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_big1.png" group-title="E. Kids Channel",ANIPLUS Backup
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_big1.png" group-title="E. Kids Channel",AniPlus Backup
 https://vcdnjt.useetv.com/joss/14/aniplus/chunklist_w1639792963_b684100_sleng_70259.m3u8
 
 #EXTINF:-1 tvg-id="DisneyChannel.MACAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1280px-2014_Disney_Channel_logo.svg.png" group-title="E. Kids Channel", Disney Channel
@@ -517,20 +517,23 @@ https://delivery.macan.live/stream/nickjr/playlist.m3u8?token=CLK6e&v=20200308
 #EXTINF:-1 tvg-id="BabyTV.MACAN"  tvg-logo="https://jsat.tv/gallery/var/albums/TV%20Logos/babytv.png?m=1458721481" group-title="E. Kids Channel", BabyTV
 https://delivery.macan.live/stream/babytv/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="E. Kids Channel", BABY FIRST
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="E. Kids Channel", Baby First
 https://vcdnjt.useetv.com/joss/14/babyfirst/chunklist_w1050663769_b684100_sleng_69390.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_small1.png" group-title="E. Kids Channel", DUCK TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_small1.png" group-title="E. Kids Channel", Duck TV
 https://vcdnjt.useetv.com/joss/14/ducktv/chunklist_w1015900296_b684100_sleng_30766.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png" group-title="E. Kids Channel", HOREE
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png" group-title="E. Kids Channel", Horee
 https://vcdnjt.useetv.com/joss/14/horee/chunklist_w2132513250_b684100_sleng_875.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://mncvision.id/userfiles/image/channel/nickjr.jpg" group-title="E. Kids Channel", NICK JR.
 https://vcdnjt.useetv.com/joss/14/nickjr/chunklist_w385685409_b684100_b684100_sleng_69513.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_spacetoonplus_small1.png" group-title="E. Kids Channel", SPACETOON PLUS
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_spacetoonplus_small1.png" group-title="E. Kids Channel", Spacetoon Plus
 https://vcdnjt.useetv.com/joss/14/spacetoonplus/chunklist_w549968608_b684100_sleng_69630.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davincikids.tv/wp-content/uploads/2019/12/Da-Vinci-Primary-Logo-RGB.png" group-title="E. Kids Channel", Da Vinci
+https://vcdnjt.useetv.com/joss/14/davinci/chunklist_w583345061_b684100_sleng_6410.m3u8
 
 
 
