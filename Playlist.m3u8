@@ -791,3 +791,66 @@ https://cdnbpp1.useetv.com/joss/14/mncshop/chunklist_w1554814398_b684100_sleng_1
 
 
 
+############## L. Religi Channel ##############
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.transvision.co.id/img/channel/khazanah.png" group-title="L. Religi Channel", Khazanah
+https://cdnbpp1.useetv.com/joss/14/khazanah/chunklist_w1515565800_b684100_sleng_27882.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/a5/TVMu_logo.svg/1200px-TVMu_logo.svg.png" group-title="L. Religi Channel", TVMU
+https://cdnbdsa1.useetv.com/joss/14/muhammadiyahtv/chunklist_w1106242608_b684100_sleng_201075.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/a5/TVMu_logo.svg/1200px-TVMu_logo.svg.png" group-title="L. Religi Channel", TVMU Backup
+https://cdnjt14.useetv.com/joss/14/muhammadiyahtv/chunklist_w667387549_b684100_sleng_142217.m3u8
+
+#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_mtatv_big1.png?v=2.0.0.13" group-title="L. Religi Channel", MTA TV
+https://cdnbpp1.useetv.com/joss/14/mtatv/chunklist_w1338780542_b684100_sleng_138980.m3u8
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROGfBr9-yWv5rSXo-22LNs1sZb357n37TyQxd01uD-PO8pKJiRyA&s" group-title="L. Religi Channel", RODJATV
+https://cdnbpp1.useetv.com/joss/14/rodjatv/chunklist_w373234397_b684100_sleng_138969.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/81/Logo_MQTV.png/1200px-Logo_MQTV.png" group-title="L. Religi Channel", MQTV
+https://cdnbpp1.useetv.com/joss/14/mqtv/chunklist_w1136342416_b684100_sleng_201104.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0d/TV_MUI.png" group-title="L. Religi Channel", TV MUI
+https://cdnbpp1.useetv.com/joss/14/muitv/chunklist_w1438842565_b684100_sleng_10402.m3u8
+
+#EXTINF:-1  tvg-logo="https://www.tawaf.tv/assets/img/tawaftv.jpg" group-title="L. Religi Channel", TAWAF TV
+https://cdnbpp1.useetv.com/joss/14/tawaftv/chunklist_w979344880_b684100_sleng_138954.m3u8
+
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_93.png" group-title="L. Religi Channel", AlQuran Kareem 2
+https://cdnbpp1.useetv.com/joss/14/alquran/chunklist_w1768877601_b684100_sleng_142491.m3u8
+
+#EXTINF:-1  tvg-logo="https://www.imuslim.id/wp-content/uploads/2020/01/ahsantv.jpeg" group-title="L. Religi Channel", AHSAN TV
+http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbKoDUL7PJD9fdnm1ux7-sX-VMfrPE1Qk8iwhhb9-UP4Wvg6J0Og&s" group-title="L. Religi Channel", AL-IMAN TV
+http://tv.aliman.id:1935/aliman/HD/chunklist_w171899086.m3u8
+
+#EXTINF:-1  tvg-logo="https://www.tvislamparabola.com/wp-content/uploads/2019/09/Logo_Salam_TV-1-1-1.png" group-title="L. Religi Channel", SALAM TV
+http://wowza60.indostreamserver.com:1935/salamtv/live/chunklist_w284712012.m3u8
+
+#EXTINF:-1  tvg-logo="https://cdn.imgbin.com/24/6/19/imgbin-al-masjid-an-nabawi-dawah-television-islam-islam-NTPKez14T9SvwS5xJ8zNB0Bwx.jpg" group-title="L. Religi Channel", NABAWI TV
+http://stream2.ninmedia.tv:80/nabawitv/nabawitv_360p/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://3.bp.blogspot.com/-B-kbP9oVewA/XGycwsK2VJI/AAAAAAAAnSA/l8Nej1aGSos4Nukut8wO4iSKbbhf4ohuACLcBGAs/s1600/al-bahjah-tv-channel-logo.png" group-title="L. Religi Channel", AL Bahjah 
+https://edge.siar.us/albahjahtv/live/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWcrfdOa5AZnnGIDR3DASdqGR37jkUmRccsFy4ql31ZZZfBG_22w&s" group-title="L. Religi Channel", ADI TV
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcoprabGurjpq1KC6GvtrqeCXw_OvzpmCSh01Py6njpUqUzj_43g&s" group-title="L. Religi Channel", Makkah TV
+http://livecdnh2.tvanywhere.ae/hls/quran/03.m3u8
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDpARnBAqv-LQ_k5OLJVwRF2UEbudYv_kBLyk72M3iB15HUco-mw&s" group-title="L. Religi Channel", Madinah TV
+http://livecdnh2.tvanywhere.ae/hls/sunnah/03.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Iqraa_logo.gif/200px-Iqraa_logo.gif" group-title="L. Religi Channel", Iqraa TV
+http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
+
+#EXTINF:-1  tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/id-wesal-tv-indonesia.jpg" group-title="L. Religi Channel", Wesal TV
+http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://yt3.ggpht.com/a/AATXAJyQepZqeJ7xtn17Gv8BgNAene55nxs0eMrTZA=s900-c-k-c0xffffffff-no-rj-mo" group-title="L. Religi Channel", Hidup TV
+http://202.93.133.3:1935/SVR1/ch_hiduptv.stream_720p/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://2.bp.blogspot.com/-4LQWb7rIO1g/V-C6O5351ZI/AAAAAAAAfcg/O75Ckiv8yV4EuftFUL4tl_NLiKSQZj25wCLcB/s1600/i-am-channel-tv-logo.png" group-title="L. Religi Channel", I AM Channel
+http://iamchannel.org:1935/tes/1/chunklist.m3u8
