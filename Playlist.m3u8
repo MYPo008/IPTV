@@ -131,6 +131,9 @@ https://tic.indonusa.net.id:8443/live/TIC.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO.MACAN" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="B. MovieBiz Channel", HBO
 http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EDA811CE90A26AD414D02B63E0A9171A68A9454C&profile=pass
 
+#EXTINF:-1 tvg-id="HBO.MACAN" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="B. MovieBiz Channel", HBO Backup
+http://iptv.burhansyam.com/hbo/hbo.m3u8
+
 #EXTINF:-1 tvg-id="HBOFamily.MACAN" tvg-ID="HBOFamily.MACAN" tvg-logo="https://macan.live/img/hbo_family.png" group-title="B. MovieBiz Channel", HBO Family
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pas
 
