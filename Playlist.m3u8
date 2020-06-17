@@ -129,7 +129,7 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/S
 https://tic.indonusa.net.id:8443/live/TIC.stream_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBO.MACAN" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="B. MovieBiz Channel", HBO
-http://streamku.live:8888/live/tesaja/0142/689.m3u8
+http://streamku.live:8888/live/tesaja/0142/847.m3u8
 
 #EXTINF:-1 tvg-id="HBO.MACAN" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="B. MovieBiz Channel", HBO Backup
 http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EDA811CE90A26AD414D02B63E0A9171A68A9454C&profile=pass
