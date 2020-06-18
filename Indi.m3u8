@@ -337,13 +337,13 @@ rtp://@239.1.1.151:8880
 rtp://@239.1.1.114:8658
 #EXTINF:-1 tvg-id="" ,tvg-id="ext" group-title="Movie",925 CINEMA WORLD
 rtp://@239.1.1.189:9108
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="Movie",991 HBO HD
+#EXTINF:-1 tvg-id="HBOHD.MACAN" tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="Movie",991 HBO HD
 rtp://@239.1.1.203:9192
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/8mgc3qG/hbohits.png" group-title="Movie",992 HBO Hits HD
+#EXTINF:-1 tvg-id="HBOHitsHD.MACAN" tvg-logo="https://i.ibb.co/8mgc3qG/hbohits.png" group-title="Movie",992 HBO Hits HD
 rtp://@239.1.1.215:9264
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/4TFkw0B/hbosignature.png" group-title="Movie",993 HBO Signature HD
+#EXTINF:-1 tvg-id="HBOSignatureHD.MACAN" tvg-logo="https://i.ibb.co/4TFkw0B/hbosignature.png" group-title="Movie",993 HBO Signature HD
 rtp://@239.1.2.249:9378
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/0GWjcWV/hbofamily.png" group-title="Movie",994 HBO Family HD
+#EXTINF:-1 tvg-id="HBOFamilyHD.MACAN" tvg-logo="https://i.ibb.co/0GWjcWV/hbofamily.png" group-title="Movie",994 HBO Family HD
 rtp://@239.1.2.245:9366
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/wgxTrzm/red.png" group-title="Movie",995 RED HD
 rtp://@239.1.1.133:8772
