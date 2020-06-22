@@ -345,6 +345,7 @@ https://vcdnjt.useetv.com:443/joss/14/bioskopindonesia/chunklist_w1569483238_b68
 https://delivery.macan.live/stream/sinema_A. Local Channel/playlist.m3u8?token=CLK6e&v=20200308
 
 
+
 ######## C. Sport Channel #########
 #EXTINF:-1 tvg-id="FOXSports.MACAN"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="C. Sport Channel", Voa Indo
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
@@ -370,11 +371,15 @@ https://vcdnjt.useetv.com/joss/15/foxsport3/chunklist_w659832811_b1344100_sleng_
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png" group-title="C. Sport Channel", Bein Sport 1 SD
 https://vcdnjt.useetv.com/joss/15/bein1/chunklist_w1092737456_b894100_sleng_90025.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_big1.png" group-title="Sports",BeIN Sport 1 ID
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png" group-title="C. Sport Channel",BeIN Sport 1 ID
 https://vcdnjt.useetv.com/joss/15/bein1/chunklist_w107534727_b1344100_sleng_16277.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png" group-title="C. Sport Channel", Bein Sport 1 HD Backup
 https://vcdnjt.useetv.com/joss/15/bein1/chunklist_w1385039321_b1344100_sleng_247479.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png" group-title="C. Sport Channel", Bein Sport 1 HD Backup2
+https://cdnjt22.useetv.com/joss/15/bein1/chunklist_w604343607_b1344100_sleng.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small2.png" group-title="C. Sport Channel", Bein Sport 2 SD
 https://vcdnjt.useetv.com/joss/15/bein2/chunklist_w279048530_b894100_sleng_90041.m3u8
@@ -532,7 +537,7 @@ https://cdnkbl1.useetv.com/joss/14/cgtndocumentary/chunklist_w688449162_b684100_
 https://dl.dropboxusercontent.com/s/egenrjti6f34mn4/animax.m3u8?dl=0
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="E. Kids Channel", Animax Backup
-https://edgejt6.useetv.com/joss/18/animax/chunklist_w193028450_b684100_sleng_62816.m3u8
+https://vcdnjt.useetv.com/joss/14/animax/chunklist_w739131567_b684100_sleng_70005.m3u8
 
 #EXTINF:-1 tvg-id="ANIPlus.MACAN" tvg-logo="https://macan.live/img/aniplus.png" group-title="E. Kids Channel", AniPlus
 https://dl.dropboxusercontent.com/s/49qk07up0482d9d/aniplus.m3u8?dl=0
