@@ -359,7 +359,7 @@ https://vcdnjt.useetv.com/joss/15/foxsport1/chunklist_w662956550_b1344100_sleng_
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="C. Sport Channel", Fox Sport 2 SD
 https://vcdnjt.useetv.com/joss/15/foxsport2/chunklist_w602405053_b894100_sleng_471047.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png" group-title="C. Sport Channel", Fox Sport2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png" group-title="C. Sport Channel", Fox Sport 2 HD
 https://vcdnjt.useetv.com/joss/15/foxsport2/chunklist_w61448113_b1344100_sleng_247672.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="C. Sport Channel", Fox Sport 3 SD
@@ -371,7 +371,7 @@ https://vcdnjt.useetv.com/joss/15/foxsport3/chunklist_w659832811_b1344100_sleng_
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png" group-title="C. Sport Channel", Bein Sport 1 SD
 https://vcdnjt.useetv.com/joss/15/bein1/chunklist_w1092737456_b894100_sleng_90025.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png" group-title="C. Sport Channel",BeIN Sport 1 ID
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png" group-title="C. Sport Channel", BeIN Sport 1 HD
 https://vcdnjt.useetv.com/joss/15/bein1/chunklist_w107534727_b1344100_sleng_16277.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png" group-title="C. Sport Channel", Bein Sport 1 HD Backup
@@ -450,7 +450,7 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
 #EXTINF:-1  tvg-logo="https://seeklogo.com/images/S/SportsMax-logo-CE170AE84D-seeklogo.com.gif" group-title="C. Sport Channel", SPORTS MAX
 http://161.0.157.9/PLTV/88888888/224/3221226766/index.m3u8
 
-#EXTINF:-1 tvg-id="FightSports.MACAN"  tvg-logo="https://www.fightsports.tv/wp-content/uploads/2017/04/FightSportsLogo2x.png" group-title="C. Sport Channel", SERVER ID : Fight Sport
+#EXTINF:-1 tvg-id="FightSports.MACAN"  tvg-logo="https://www.fightsports.tv/wp-content/uploads/2017/04/FightSportsLogo2x.png" group-title="C. Sport Channel", Fight Sport
 http://178.132.78.40:8080/DHqQSdo5G0/4on7pnN1pP/62258
 
 
