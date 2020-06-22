@@ -4,3 +4,6 @@ url-tvg="http://tvku.live:8888/xmltv.php?username=epg&password=epg" x-tvg-url="h
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png" group-title="C. Sport Channel", BeIN Sport 1 HD
 https://cdnjt22.useetv.com/joss/15/bein1/chunklist_w604343607_b1344100_sleng.m3u8?enc=4mC5r0ll-LCZS2ZGQJtOvQ&exp=1592802248
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/General-Entertainment/CitraDrama.png" group-title="B. MovieBiz Channel", Citra Drama
+https://etslive-2-vidio-com.akamaized.net/exp=1592812060~acl=/hls-p/ingest_6401_*/*~hmac=a65e045e62f1c49f391940b240cfbdb91f270cfc116dca15349af25e46af9959/hls-p/ingest_6401_720p/index.m3u8
