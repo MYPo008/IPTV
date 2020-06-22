@@ -1,2 +1,6 @@
+#EXTM3U
+url-tvg="https://macan.live/xmltv.php?username=epg&password=epg" x-tvg-url="https://macan.live/xmltv.php?username=epg&password=epg"
+url-tvg="http://tvku.live:8888/xmltv.php?username=epg&password=epg" x-tvg-url="http://tvku.live:8888/xmltv.php?username=epg&password=epg"
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png" group-title="C. Sport Channel", BeIN Sport 1 HD
 https://cdnjt22.useetv.com/joss/15/bein1/chunklist_w604343607_b1344100_sleng.m3u8?enc=4mC5r0ll-LCZS2ZGQJtOvQ&exp=1592802248
