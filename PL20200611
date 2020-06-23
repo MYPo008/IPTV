@@ -162,22 +162,22 @@ http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8
 #EXTINF:-1 tvg-id="HBOFamily.MACAN" tvg-ID="HBOFamily.MACAN" tvg-logo="https://macan.live/img/hbo_family.png" group-title="B. MovieBiz Channel", HBO Family Backup2
 http://82.118.242.137:80/iXebt9nmrU/esGU57px6r/62172
 
-#EXTINF:-1 tvg-id="HBOHits.MACAN" tvg-ID="HBOHits.MACAN"tvg-logo="https://macan.live/img/hbo_hits.png" group-title="B. MovieBiz Channel" , HBO Hits
+#EXTINF:-1 tvg-id="HBOHits.MACAN" tvg-ID="HBOHits.MACAN" tvg-logo="https://macan.live/img/hbo_hits.png" group-title="B. MovieBiz Channel" , HBO Hits
 http://learninglogic.000webhostapp.com/hboh.php
 
-#EXTINF:-1 tvg-id="HBOHits.MACAN" tvg-ID="HBOHits.MACAN"tvg-logo="https://macan.live/img/hbo_hits.png" group-title="B. MovieBiz Channel" , HBO Hits Backup
+#EXTINF:-1 tvg-id="HBOHits.MACAN" tvg-ID="HBOHits.MACAN" tvg-logo="https://macan.live/img/hbo_hits.png" group-title="B. MovieBiz Channel" , HBO Hits Backup
 http://203.153.218.28:9981/stream/channelid/78064174?ticket=660D32D50E614C084246AEB35D9D916F70E2FE63&profile=pass
 
-#EXTINF:-1 tvg-id="HBOHits.MACAN" tvg-ID="HBOHits.MACAN"tvg-logo="https://macan.live/img/hbo_hits.png" group-title="B. MovieBiz Channel" , HBO Hits Backup 2
+#EXTINF:-1 tvg-id="HBOHits.MACAN" tvg-ID="HBOHits.MACAN" tvg-logo="https://macan.live/img/hbo_hits.png" group-title="B. MovieBiz Channel" , HBO Hits Backup 2
 http://82.118.242.137:80/iXebt9nmrU/esGU57px6r/62173
 
-#EXTINF:-1 tvg-id="HBOSignature.MACAN" tvg-ID="HBOSignature.MACAN"tvg-logo="https://macan.live/img/hbo_signature.png" group-title="B. MovieBiz Channel" , HBO Signature
+#EXTINF:-1 tvg-id="HBOSignature.MACAN" tvg-ID="HBOSignature.MACAN" tvg-logo="https://macan.live/img/hbo_signature.png" group-title="B. MovieBiz Channel" , HBO Signature
 http://learninglogic.000webhostapp.com/hbos.php
 
-#EXTINF:-1 tvg-id="HBOSignature.MACAN" tvg-ID="HBOSignature.MACAN"tvg-logo="https://macan.live/img/hbo_signature.png" group-title="B. MovieBiz Channel" , HBO Signature Backup
+#EXTINF:-1 tvg-id="HBOSignature.MACAN" tvg-ID="HBOSignature.MACAN" tvg-logo="https://macan.live/img/hbo_signature.png" group-title="B. MovieBiz Channel" , HBO Signature Backup
 http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
 
-#EXTINF:-1 tvg-id="HBOSignature.MACAN" tvg-ID="HBOSignature.MACAN"tvg-logo="https://macan.live/img/hbo_signature.png" group-title="B. MovieBiz Channel" , HBO Signature Backup2
+#EXTINF:-1 tvg-id="HBOSignature.MACAN" tvg-ID="HBOSignature.MACAN" tvg-logo="https://macan.live/img/hbo_signature.png" group-title="B. MovieBiz Channel" , HBO Signature Backup2
 http://82.118.242.137:80/iXebt9nmrU/esGU57px6r/62174
 
 #EXTINF:-1 tvg-id="" tvg-ID="HBOSignature.MACAN" tvg-logo="https://macan.live/img/red_hbo.png" group-title="B. MovieBiz Channel" , RED By HBO
