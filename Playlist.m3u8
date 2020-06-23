@@ -47,10 +47,10 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1271606575_b280000_sl
 https://dl.dropbox.com/s/e5si1bmmtx4hgq9/trans7.m3u8?dl=0
 
 #EXTINF:-1 tvg-id="TransTV.MACAN" tvg-logo="https://macan.live/img/transtv.png" group-title="A. Local Channel", TRANS TV
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1271606575_b280000_sleng.m3u8
+https://vcdnjt.useetv.com/joss/15/transtv/chunklist_w809113791_b1344100_sleng_177560.m3u8
 
 #EXTINF:-1 tvg-id="TransTV.MACAN" tvg-logo="https://macan.live/img/transtv.png" group-title="A. Local Channel", TRANS TV HD
-https://dl.dropbox.com/s/e5si1bmmtx4hgq9/trans7.m3u8?dl=0
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVONE.MACAN" tvg-logo="https://macan.live/img/tvone.png" group-title="A. Local Channel", TV ONE
 https://vcdnjt.useetv.com/joss/15/tvone/chunklist_w1407325584_b894100_sleng_519110.m3u8
@@ -82,6 +82,9 @@ https://cdnbal1.useetv.com/joss/14/jaktv/chunklist_w1342810570_b684100_sleng_122
 #EXTINF:-1 tvg-id="BeritaSatu.MACAN"  tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e7/BeritaSatu.png" group-title="A. Local Channel", BeritaSatu
 https://cdnbal1.useetv.com/joss/14/beritasatu/chunklist_w19392159_b684100_sleng_124723.m3u8
 
+#EXTINF:-1 tvg-id="BeritaSatu.MACAN"  tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e7/BeritaSatu.png" group-title="A. Local Channel", BeritaSatu Backup
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
+
 #EXTINF:-1 tvg-id="RTV.MACAN"  tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9e/RtvA. Local Channel.png" group-title="A. Local Channel", RTV
 https://cdnbal1.useetv.com/joss/14/rtv/chunklist_w511645015_b684100_sleng_37857.m3u8
 
@@ -109,8 +112,11 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/Stream(03)/index.m
 #EXTINF:-1 tvg-id=""  tvg-logo="https://macan.live/img/tvri.png" group-title="A. Local Channel", TVRI Sport HD
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://macan.live/img/jowo.png" group-title="A. Local Channel", Jowo Channel
-https://delivery.macan.live/stream/jowo/playlist.m3u8?token=CLK6e&v=20200308
+#EXTINF:-1 tvg-id=""  tvg-logo="https://macan.live/img/tvri.png" group-title="A. Local Channel", TVRI Sport HD Backup
+http://210.210.155.35/qwr9ew/s/s107/01.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png" group-title="A. Local Channel", TVRI DKI JAKARTA
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
 
 #EXTINF:-1 tvg-id="IDX.MACAN"  tvg-logo="https://macan.live/img/idx.png" group-title="A. Local Channel", IDX
 https://vcdnjt.useetv.com/joss/14/idx/chunklist_w1078674544_b684100_sleng_338.m3u8
@@ -121,11 +127,11 @@ http://wowza60.indostreamserver.com:1935/salamtv/live/chunklist_w284712012.m3u8
 #EXTINF:-1 tvg-id="JTV.id"  tvg-logo="https://macan.live/img/jtv.png" group-title="A. Local Channel", JTV
 https://cdnbal1.useetv.com/joss/14/jtv/chunklist_w1586153396_b684100_sleng_37903.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png" group-title="A. Local Channel", TVRI DKI JAKARTA
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/MyTV.png" group-title="A. Local Channel",MY TV
 https://edgejt6.useetv.com/joss/18/mytv/chunklist_w1419180631_b684100_sleng_177560.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/MyTV.png" group-title="A. Local Channel",MY TV Backup
+https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/AntaraTV.png" group-title="A. Local Channel",ANTARA
 https://vcdnjt.useetv.com/joss/14/antara/chunklist_w1633911880_b684100_sleng_21937.m3u8
@@ -139,7 +145,7 @@ https://vcdnjt.useetv.com/joss/14/antara/chunklist_w1633911880_b684100_sleng_219
 https://tic.indonusa.net.id:8443/live/TIC.stream_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBO.MACAN" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="B. MovieBiz Channel", HBO
-http://streamku.live:8888/live/tesaja/0142/847.m3u8
+http://learninglogic.000webhostapp.com/hbo.php
 
 #EXTINF:-1 tvg-id="HBO.MACAN" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="B. MovieBiz Channel", HBO Backup
 http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EDA811CE90A26AD414D02B63E0A9171A68A9454C&profile=pass
@@ -147,14 +153,17 @@ http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EDA811CE90A26AD414
 #EXTINF:-1 tvg-id="HBO.MACAN" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="B. MovieBiz Channel", HBO Backup2
 http://iptv.burhansyam.com/hbo/hbo.m3u8
 
-#EXTINF:-1 tvg-id="HBOFamily.MACAN" tvg-ID="HBOFamily.MACAN" tvg-logo="https://macan.live/img/hbo_family.png" group-title="B. MovieBiz Channel", HBO Family
-http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pas
+#EXTINF:-1 tvg-id="HBOFamily.MACAN" tvg-ID="HBOFamily.MACAN" tvg-logo="https://macan.live/img/hbo_family.png" group-title="B. MovieBiz Channel", HBO Family Backup
+http://learninglogic.000webhostapp.com/hbof.php
 
 #EXTINF:-1 tvg-id="HBOFamily.MACAN" tvg-ID="HBOFamily.MACAN" tvg-logo="https://macan.live/img/hbo_family.png" group-title="B. MovieBiz Channel", HBO Family Backup
+http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pas
+
+#EXTINF:-1 tvg-id="HBOFamily.MACAN" tvg-ID="HBOFamily.MACAN" tvg-logo="https://macan.live/img/hbo_family.png" group-title="B. MovieBiz Channel", HBO Family Backup2
 http://82.118.242.137:80/iXebt9nmrU/esGU57px6r/62172
 
 #EXTINF:-1 tvg-id="HBOHits.MACAN" tvg-ID="HBOHits.MACAN"tvg-logo="https://macan.live/img/hbo_hits.png" group-title="B. MovieBiz Channel" , HBO Hits
-http://203.153.218.28:9981/stream/channelid/2038175895?ticket=0299B4C37DF5A2B463E83E4FFD9AD1E91BA48253&profile=pass
+http://learninglogic.000webhostapp.com/hboh.php
 
 #EXTINF:-1 tvg-id="HBOHits.MACAN" tvg-ID="HBOHits.MACAN"tvg-logo="https://macan.live/img/hbo_hits.png" group-title="B. MovieBiz Channel" , HBO Hits Backup
 http://203.153.218.28:9981/stream/channelid/78064174?ticket=660D32D50E614C084246AEB35D9D916F70E2FE63&profile=pass
@@ -163,12 +172,18 @@ http://203.153.218.28:9981/stream/channelid/78064174?ticket=660D32D50E614C084246
 http://82.118.242.137:80/iXebt9nmrU/esGU57px6r/62173
 
 #EXTINF:-1 tvg-id="HBOSignature.MACAN" tvg-ID="HBOSignature.MACAN"tvg-logo="https://macan.live/img/hbo_signature.png" group-title="B. MovieBiz Channel" , HBO Signature
-http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
+http://learninglogic.000webhostapp.com/hbos.php
 
 #EXTINF:-1 tvg-id="HBOSignature.MACAN" tvg-ID="HBOSignature.MACAN"tvg-logo="https://macan.live/img/hbo_signature.png" group-title="B. MovieBiz Channel" , HBO Signature Backup
+http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
+
+#EXTINF:-1 tvg-id="HBOSignature.MACAN" tvg-ID="HBOSignature.MACAN"tvg-logo="https://macan.live/img/hbo_signature.png" group-title="B. MovieBiz Channel" , HBO Signature Backup2
 http://82.118.242.137:80/iXebt9nmrU/esGU57px6r/62174
 
 #EXTINF:-1 tvg-id="" tvg-ID="HBOSignature.MACAN" tvg-logo="https://macan.live/img/red_hbo.png" group-title="B. MovieBiz Channel" , RED By HBO
+http://learninglogic.000webhostapp.com/red.php
+
+#EXTINF:-1 tvg-id="" tvg-ID="HBOSignature.MACAN" tvg-logo="https://macan.live/img/red_hbo.png" group-title="B. MovieBiz Channel" , RED By HBO Backup
 http://82.118.242.137:80/iXebt9nmrU/esGU57px6r/62171
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="B. MovieBiz Channel" , Love Nature
@@ -252,6 +267,9 @@ https://vcdnjt.useetv.com:443/joss/15/tvnmovies/chunklist_w612648122_b684100_sle
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/General-Entertainment/CitraDrama.png" group-title="B. MovieBiz Channel", Citra Drama
 https://cdnbal1.useetv.com/joss/14/cdrama/chunklist_w516557647_b684100_sleng_13343.m3u8
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/General-Entertainment/CitraDrama.png" group-title="B. MovieBiz Channel", Citra Drama Backup
+https://dl.dropbox.com/s/5ws9vhnr7pf7n2j/CitraDrama.m3u8?dl=0
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://macan.live/img/dunialain.png" group-title="B. MovieBiz Channel", Dunia Lain
 https://cdnmdc2.useetv.com/joss/14/dunialain/chunklist_w2020344872_b684100_sleng_38553.m3u8
@@ -380,7 +398,6 @@ https://vcdnjt.useetv.com/joss/15/bein1/chunklist_w1385039321_b1344100_sleng_247
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png" group-title="C. Sport Channel", Bein Sport 1 HD Backup2
 https://cdnjt22.useetv.com/joss/15/bein1/chunklist_w604343607_b1344100_sleng.m3u8
 
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small2.png" group-title="C. Sport Channel", Bein Sport 2 SD
 https://vcdnjt.useetv.com/joss/15/bein2/chunklist_w279048530_b894100_sleng_90041.m3u8
 
@@ -453,7 +470,8 @@ http://161.0.157.9/PLTV/88888888/224/3221226766/index.m3u8
 #EXTINF:-1 tvg-id="FightSports.MACAN"  tvg-logo="https://www.fightsports.tv/wp-content/uploads/2017/04/FightSportsLogo2x.png" group-title="C. Sport Channel", Fight Sport
 http://178.132.78.40:8080/DHqQSdo5G0/4on7pnN1pP/62258
 
-
+#EXTINF:-1 tvg-id="FightSports.MACAN"  tvg-logo="https://img.favpng.com/16/13/11/logo-pga-championship-golf-channel-pga-tour-png-favpng-EUzM17a39tpHYqDCRmktikR3i.jpg" group-title="C. Sport Channel", NBC Golf
+http://learninglogic.000webhostapp.com/nbcg.php
 
 
 
