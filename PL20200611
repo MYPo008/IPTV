@@ -192,9 +192,6 @@ http://iptvstream.xyz:8080/12679/e37ad312/78665
 #EXTINF:-1 tvg-id="CineMax.MACAN" tvg-ID="CineMax.MACAN" tvg-logo="https://macan.live/img/cinemaxa.png" group-title="B. MovieBiz Channel" , Cinemax by HBO
 http://82.118.242.137:80/iXebt9nmrU/esGU57px6r/62170
 
-#EXTINF:-1 tvg-id="HGTV.MACAN"  tvg-logo="https://macan.live/img/hgtv.png" group-title="B. MovieBiz Channel", HGTV
-http://iptvstream.xyz:8080/12679/e37ad312/162518
-
 #EXTINF:-1 group-title="B. MovieBiz Channel",Amedia Hit HBO
 http://89.106.234.4:80/amedia_hit_hd_34_35.m3u8
 
@@ -272,6 +269,9 @@ https://cdnbal1.useetv.com/joss/14/cdrama/chunklist_w516557647_b684100_sleng_133
 https://dl.dropbox.com/s/5ws9vhnr7pf7n2j/CitraDrama.m3u8?dl=0
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://macan.live/img/dunialain.png" group-title="B. MovieBiz Channel", Dunia Lain
+http://learninglogic.000webhostapp.com/dunialain.php
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://macan.live/img/dunialain.png" group-title="B. MovieBiz Channel", Dunia Lain Backup
 https://cdnmdc2.useetv.com/joss/14/dunialain/chunklist_w2020344872_b684100_sleng_38553.m3u8
 
 #EXTINF:-1 tvg-id="CelestialMovies.MACAN" tvg-logo="https://mncvision.id/userfiles/image/channel/celestial.png" group-title="B. MovieBiz Channel", Celestical Movies
@@ -858,13 +858,16 @@ https://edge-1192-ch-gv.filmon.com/live/1778.high.stream/playlist.m3u8
 
 
 ############# K. Lifestyle ##############
-#EXTINF:-1 tvg-id="AsianFoodChannel.th"  tvg-logo="https://macan.live/img/afc.png" group-title="K. Lifestyle", AFN Channel
+#EXTINF:-1 tvg-id="AsianFoodChannel.th"  tvg-logo="https://macan.live/img/afc.png" group-title="K. Lifestyle", AFC Channel
+http://learninglogic.000webhostapp.com/afc.php
+
+#EXTINF:-1 tvg-id="AsianFoodChannel.th"  tvg-logo="https://macan.live/img/afc.png" group-title="K. Lifestyle", AFC Channel Backup
 http://203.153.218.28:9981/stream/channelid/1092664456?ticket=55F1D428F8430B8043855EE1A817CAD070D7E395&profile=pass
 
-#EXTINF:-1 tvg-id="AsianFoodChannel.th"  tvg-logo="https://macan.live/img/afc.png" group-title="K. Lifestyle", AFN Channel Backup
+#EXTINF:-1 tvg-id="AsianFoodChannel.th"  tvg-logo="https://macan.live/img/afc.png" group-title="K. Lifestyle", AFC Channel Backup2
 https://cdnbpp1.useetv.com/joss/15/afc/chunklist_w1522871859_b894100_sleng_262387.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/FashionOneLogo.jpg" group-title="K. Lifestyle",FASHION ONE
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/FashionOneLogo.jpg" group-title="K. Lifestyle",Fasion One
 https://cdnbpp1.useetv.com/joss/15/fashionone/chunklist_w1872072904_b684100_sleng_324706.m3u8
 
 #EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="K. Lifestyle",FASHION TV
