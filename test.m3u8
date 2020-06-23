@@ -7,3 +7,6 @@ https://cdnjt22.useetv.com/joss/15/bein1/chunklist_w604343607_b1344100_sleng.m3u
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/General-Entertainment/CitraDrama.png" group-title="B. MovieBiz Channel", Citra Drama
 https://etslive-2-vidio-com.akamaized.net/exp=1592812060~acl=/hls-p/ingest_6401_*/*~hmac=a65e045e62f1c49f391940b240cfbdb91f270cfc116dca15349af25e46af9959/hls-p/ingest_6401_720p/index.m3u8
+
+#EXTINF:-1 tvg-ID="NetTV" group-title="Lokal FTA", NET.
+https://sin-3.macan.live/stream/nettv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIwIDE6NTA6NTcgQU0maGFzaF92YWx1ZT1wbWVFTjBqVDlWajlzdVZyNW9PbjF3PT0maWQ9WE43b2p8TUFDQU5JUFRWUGxheWVyfDE1My45Mi4wLjI4fG5ldHR2fDE1OTI4NzczNTc1NTl8ZW5kdXNlcnw1ZGY0YTY1ZTAzNTVmNzljOWZlYTRkOGImdmFsaWRtaW51dGVzPTE1&token=Cx1126tCGpLUCcCR4sWimYEYmQCYZSO1fk5VoreOXZAhKhXRXKrMHgwpXmTmTc1sY07zyRTtvcE09reUsFDDsb4oz0rhuFdY2ugVU1ah5iDPKsuNHPM4p1RU839v3Xu13kwUmf6jWBE9MBDsEszZmkKoylbcw4X7RFWwyc8x1gFXN4rpkB3
