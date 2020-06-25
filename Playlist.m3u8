@@ -16,10 +16,13 @@ http://iptv.burhansyam.com/mnctv.m3u8
 #EXTINF:-1 tvg-id="MNCTV.MACAN" tvg-name="MNC TV ID" tvg-logo="https://macan.live/img/mnctv.png" group-title="A. Local Channel", MNC Backup
 http://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
 
-#EXTINF:-1 tvg-id="GlobalTV.MACAN" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="A. Local Channel", GTV
+#EXTINF:-1 tvg-id="GlobalTV.MACAN" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="A. Local Channel", GTV HD
+http://iptv.burhansyam.com/globaltvhd.m3u8
+
+#EXTINF:-1 tvg-id="GlobalTV.MACAN" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="A. Local Channel", GTV SD
 http://iptv.burhansyam.com/global.m3u8
 
-#EXTINF:-1 tvg-id="GlobalTV.MACAN" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="A. Local Channel", GTV Backup
+#EXTINF:-1 tvg-id="GlobalTV.MACAN" vg-logo="https://mncvision.id/userfiles/image/channel/channel_83.png" group-title="A. Local Channel",Inews HD
 http://iptv.burhansyam.com/global.m3u8
 
 #EXTINF:-1 tvg-id="ANTV.MACAN" tvg-logo="https://macan.live/img/antv.png" group-title="A. Local Channel", ANTV
@@ -77,7 +80,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w290751272_b1
 https://cdnbal1.useetv.com/joss/14/daaitv/chunklist_w499563901_b684100_sleng_37921.m3u8
 
 #EXTINF:-1 tvg-id="JakTV.MACAN"  tvg-logo="https://jak-tv.com/theme/jaktv/images/repository/jaktv-header-logo.png" group-title="A. Local Channel", JAKTV
-https://cdnbal1.useetv.com/joss/14/jaktv/chunklist_w1342810570_b684100_sleng_122404.m3u8
+http://iptv.burhansyam.com/jak/jaktv.m3u8
 
 #EXTINF:-1 tvg-id="BeritaSatu.MACAN"  tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e7/BeritaSatu.png" group-title="A. Local Channel", BeritaSatu
 https://cdnbal1.useetv.com/joss/14/beritasatu/chunklist_w19392159_b684100_sleng_124723.m3u8
@@ -145,13 +148,13 @@ https://vcdnjt.useetv.com/joss/14/antara/chunklist_w1633911880_b684100_sleng_219
 https://tic.indonusa.net.id:8443/live/TIC.stream_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBO.MACAN" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="B. MovieBiz Channel", HBO
-http://learninglogic.000webhostapp.com/hbo.php
+https://iptv.burhansyam.com/hbotest/hbo.m3u8
 
-#EXTINF:-1 tvg-id="HBO.MACAN" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="B. MovieBiz Channel", HBO Backup
-http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EDA811CE90A26AD414D02B63E0A9171A68A9454C&profile=pass
+#EXTINF:-1 tvg-id="HBO.MACAN" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="B. MovieBiz Channel", HBO FHD
+https://iptv.burhansyam.com/hbo/index.php
 
-#EXTINF:-1 tvg-id="HBO.MACAN" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="B. MovieBiz Channel", HBO Backup2
-http://iptv.burhansyam.com/hbo/hbo.m3u8
+#EXTINF:-1 tvg-id="HBO.MACAN" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="B. MovieBiz Channel", HBO SD
+https://iptv.burhansyam.com/hbo.m3u8
 
 #EXTINF:-1 tvg-id="HBOFamily.MACAN" tvg-ID="HBOFamily.MACAN" tvg-logo="https://macan.live/img/hbo_family.png" group-title="B. MovieBiz Channel", HBO Family Backup
 http://learninglogic.000webhostapp.com/hbof.php
@@ -163,7 +166,7 @@ http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8
 http://82.118.242.137:80/iXebt9nmrU/esGU57px6r/62172
 
 #EXTINF:-1 tvg-id="HBOHits.MACAN" tvg-ID="HBOHits.MACAN"tvg-logo="https://macan.live/img/hbo_hits.png" group-title="B. MovieBiz Channel" , HBO Hits
-http://learninglogic.000webhostapp.com/hboh.php
+https://iptv.burhansyam.com/hbotest/hits.m3u8
 
 #EXTINF:-1 tvg-id="HBOHits.MACAN" tvg-ID="HBOHits.MACAN"tvg-logo="https://macan.live/img/hbo_hits.png" group-title="B. MovieBiz Channel" , HBO Hits Backup
 http://203.153.218.28:9981/stream/channelid/78064174?ticket=660D32D50E614C084246AEB35D9D916F70E2FE63&profile=pass
@@ -172,7 +175,7 @@ http://203.153.218.28:9981/stream/channelid/78064174?ticket=660D32D50E614C084246
 http://82.118.242.137:80/iXebt9nmrU/esGU57px6r/62173
 
 #EXTINF:-1 tvg-id="HBOSignature.MACAN" tvg-ID="HBOSignature.MACAN"tvg-logo="https://macan.live/img/hbo_signature.png" group-title="B. MovieBiz Channel" , HBO Signature
-http://learninglogic.000webhostapp.com/hbos.php
+https://iptv.burhansyam.com/hbotest/sig.m3u8
 
 #EXTINF:-1 tvg-id="HBOSignature.MACAN" tvg-ID="HBOSignature.MACAN"tvg-logo="https://macan.live/img/hbo_signature.png" group-title="B. MovieBiz Channel" , HBO Signature Backup
 http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
@@ -181,16 +184,16 @@ http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21
 http://82.118.242.137:80/iXebt9nmrU/esGU57px6r/62174
 
 #EXTINF:-1 tvg-id="" tvg-ID="HBOSignature.MACAN" tvg-logo="https://macan.live/img/red_hbo.png" group-title="B. MovieBiz Channel" , RED By HBO
-http://learninglogic.000webhostapp.com/red.php
+https://iptv.burhansyam.com/hbotest/red.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-ID="HBOSignature.MACAN" tvg-logo="https://macan.live/img/red_hbo.png" group-title="B. MovieBiz Channel" , RED By HBO Backup
 http://82.118.242.137:80/iXebt9nmrU/esGU57px6r/62171
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="B. MovieBiz Channel" , Love Nature
-http://iptvstream.xyz:8080/12679/e37ad312/78665
+http://iptv.burhansyam.com/kochenk/lovenature.php
 
 #EXTINF:-1 tvg-id="CineMax.MACAN" tvg-ID="CineMax.MACAN" tvg-logo="https://macan.live/img/cinemaxa.png" group-title="B. MovieBiz Channel" , Cinemax by HBO
-http://82.118.242.137:80/iXebt9nmrU/esGU57px6r/62170
+https://iptv.burhansyam.com/hbotest/max.m3u8
 
 #EXTINF:-1 tvg-id="HGTV.MACAN"  tvg-logo="https://macan.live/img/hgtv.png" group-title="B. MovieBiz Channel", HGTV
 http://iptvstream.xyz:8080/12679/e37ad312/162518
@@ -199,13 +202,16 @@ http://iptvstream.xyz:8080/12679/e37ad312/162518
 http://89.106.234.4:80/amedia_hit_hd_34_35.m3u8
 
 #EXTINF:-1 tvg-id="FOXMovies.MACAN"  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_14.png" group-title="B. MovieBiz Channel", FOX Movies Premium
-http://203.153.218.28:9981/stream/channelid/756717990?ticket=1A08169169B8C3E2D95B82886B55BBBD5E6674B7&profile=pass
+http://iptv.burhansyam.com/kochenk/fmp.php
 
 #EXTINF:-1 tvg-id="FOXMovies.MACAN"  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_14.png" group-title="B. MovieBiz Channel", Fox Movies Premium Backup
 http://203.153.218.28:9981/stream/channelid/756717990
 
-#EXTINF:-1 tvg-id="FOXFamilyMovies.MACAN"  tvg-logo="https://x1.cdn.broiptv.online/img/fox_family.png" group-title="B. MovieBiz Channel", FOX Family Movies
-http://203.153.218.28:9981/stream/channelid/1949182550
+#EXTINF:-1 tvg-id="FOXFamilyMovies.MACAN"  tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/430_300.png" group-title="B. MovieBiz Channel", FOX Family Movies
+http://iptv.burhansyam.com/kochenk/ffmid.php
+
+#EXTINF:-1 tvg-id="FOXFamilyMovies.MACAN"  tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/430_300.png" group-title="B. MovieBiz Channel", FOX Family Movies Eng
+http://iptv.burhansyam.com/kochenk/ffm.php
 
 #EXTINF:-1 tvg-id="FOXFamilyMovies.MACAN"  tvg-logo="https://x1.cdn.broiptv.online/img/fox_family.png" group-title="B. MovieBiz Channel", FOX Family Movies Backup
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=FAA59AF9056556AD852BA91B14A11BC36F88FB30&profile=pass
@@ -258,12 +264,8 @@ http://nonton.site:8888/trTtest/MmTeYGpH0M/4
 #EXTINF:-1 tvg-id="Thrill.MACAN" tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="B. MovieBiz Channel", Thrill Backup
 http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
 
-
 #EXTINF:-1 tvg-id="KIX.MACAN"  tvg-logo="https://macan.live/img/kix.png" group-title="B. MovieBiz Channel", KIX
 http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
-
-#EXTINF:-1 tvg-id="TVN.MACAN"  tvg-logo="https://macan.live/img/tvn.png" group-title="B. MovieBiz Channel", TVN Movies
-https://vcdnjt.useetv.com:443/joss/15/tvnmovies/chunklist_w612648122_b684100_sleng_177560.m3u8?enc=d62mNPSchE55ElLUcfFpsg&exp=1585294888&encp=lCcniWIdC5U1JwXixDiTjw&expp=1585303588
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/General-Entertainment/CitraDrama.png" group-title="B. MovieBiz Channel", Citra Drama
 https://cdnbal1.useetv.com/joss/14/cdrama/chunklist_w516557647_b684100_sleng_13343.m3u8
@@ -339,7 +341,13 @@ https://vcdnjt.useetv.com/joss/15/kix/chunklist_w1419625362_b894100_sleng_471187
 https://cdnjt25.useetv.com/joss/15/kix/chunklist_w2010473624_b1344100_sleng_471141.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title="B. MovieBiz Channel", TVN
+http://iptv.burhansyam.com/kochenk/tvn.php
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title="B. MovieBiz Channel", TVN Backup
 https://vcdnjt.useetv.com:443/joss/15/tvn/chunklist_w828994627_b684100_sleng_177560.m3u8?enc=TcG4UU24km1DkwOLcEXhrw&exp=1585294859&encp=AjtUSiMQ7BYCxKmni52bYg&expp=1585303559
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title="B. MovieBiz Channel", TVN Movies
+http://iptv.burhansyam.com/kochenk/tvnm.php
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title="B. MovieBiz Channel", TVN Movies
 https://vcdnjt.useetv.com:443/joss/15/tvnmovies/chunklist_w612648122_b684100_sleng_177560.m3u8?enc=d62mNPSchE55ElLUcfFpsg&exp=1585294888&encp=lCcniWIdC5U1JwXixDiTjw&expp=1585303588
@@ -722,6 +730,9 @@ http://livecdnh1.tvanywhere.ae/hls/zing/03.m3u8
 
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.logolynx.com/images/logolynx/e7/e7a064271effda94bfc16a5d27c5ad2a.png" group-title="G. Music Channel", Zoom
 http://livecdnh1.tvanywhere.ae/hls/zoom/03.m3u8
+
+#EXTINF:-1  tvg-id="" tvg-logo="https://images.useetv.com/logogrey/grey_logo_ikonser_big.png" group-title="G. Music Channel", I Konser
+http://iptv.burhansyam.com/kochenk/ekonser.php
 
 
 
