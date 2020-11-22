@@ -1,4 +1,6 @@
 #EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.ibb.co/7jD9Q4N/Bein-1.png" group-title="BOLANG'TV",BEIN SPORTS 01
 https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.ibb.co/DVScJ2p/Bein-2.png" group-title="BOLANG'TV",BEIN SPORTS 02
